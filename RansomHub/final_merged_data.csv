@@ -1,1274 +1,588 @@
-matched_company,website,Headquarters,Country,Industry,Company Type,status,date_compromised,data_size,post_content,compromised_category,confidence,matched_keywords,matched_patterns,matched_phrases
-ciot | stone & tile,ciot.com,"Montréal, Québec",Canada,Wholesale Building Materials,Privately Held,15h 40m 46s,2024-08-29 09:23:43,1TB,Ciot is more than just a home improvement retailer. We are a turnkey inspiration and design destination. Discover Ciot's difference . Tiles. Browse our carefully curated tile collection ranging from organic ceramics and enduring porcelains to unique and elegant natural stone.,['unknown'],0,['No keyword matches'],['No pattern matches'],['No phrase matches']
-nissan dubai,www.nissan-dubai.com,Dubai,الإمارات العربية المتحدة,Retail,,PUBLISHED,2024-08-31 13:23:20,50 GB,"Nissan Dubai Branches - https://nissan-dubai.com
-Over half a million confidential client records from Nissan's Dubai branches are exfiltrated. The data includes sensitive information such as names, addresses, phone numbers, email addresses, and car ownership details.
-
-nd.png 186.66 KB
-1.png 273.8 KB
-2.png 593.23 KB
-3.png 643.15 KB
-4.png 99.9 KB
-The scale and nature of this data breach pose a significant threat to both Nissan and its clients. If the data is released, it will cause severe reputational and financial damage. 
-
-We strongly advise Nissan to take this matter seriously and respond promptly. Failure to comply will result in the release of the data.","['Databases', 'Customer and Client Data', 'PII', 'Employee and HR Data']",80,"[""Keyword match: 'email' (Category: PII)"", ""Keyword match: 'client' (Category: Customer and Client Data)"", ""Keyword match: 'hr' (Category: Employee and HR Data)"", ""Keyword match: 'rds' (Category: Databases)""]",['No pattern matches'],['No phrase matches']
-grant associates,grant-associates.uk.com,"Bath, UK",United Kingdom,Architecture and Planning,Privately Held,PUBLISHED,2024-08-30 19:56:47,400GB,Grant Associates is a pioneering international landscape architecture practice.,['unknown'],0,['No keyword matches'],['No pattern matches'],['No phrase matches']
-gruyeria,www.gruyeria.ch,Bulle,France,Real Estate,Self-Owned,PUBLISHED,2024-08-30 15:16:41,80 GB,"The Swiss reference in interior design and layout since 1885
-pic_GRUYERIA.png 50.18 KB
-pic_GRUYERIA_1.png 98.7 KB
-pic_GRUYERIA_2.png 64.9 KB
-pic_GRUYERIA_3.png 134.06 KB
-pic_GRUYERIA_4.png 31.95 KB
-pic_GRUYERIA_5.png 115.57 KB",['unknown'],0,['No keyword matches'],['No pattern matches'],['No phrase matches']
-mvz für laboratoriumsmedizin,www.iph-bet.fr,,,Musicians,,PUBLISHED,2024-08-30 15:07:28,678 GB,"Design Office for all state bodies in the construction industry. Whatever your project, we are here to support you. Listening, availability, expertise and ecological respect are at the heart of our customer relationship.
-pic_IPH_HARLY.PNG 31.81 KB
-pic_IPH_HARLY_1.png 58.54 KB
-pic_IPH_HARLY_2.PNG 154.98 KB
-pic_IPH_HARLY_3.png 89.73 KB
-pic_IPH_HARLY_4.png 69.21 KB
-pic_IPH_HARLY_5.PNG 76.75 KB",['Customer and Client Data'],20,"[""Keyword match: 'customer' (Category: Customer and Client Data)""]",['No pattern matches'],['No phrase matches']
-mineduc - ministerio de educación - guatemala,www.mineduc.gob.gt,,,,,PUBLISHED,2024-08-30 14:45:55,529 GB,"Governmen
-pic_MINEDUCGT.png 116.77 KB
-pic_MINEDUCGT_1.png 417.65 KB
-pic_MINEDUCGT_2.png 82.38 KB
-tal entity in charge of administering, supervising and coordinating the entire educational field in the department of Quetzaltenango",['unknown'],0,['No keyword matches'],['No pattern matches'],['No phrase matches']
-swinburne university of technology,www.swinburne.edu,Melbourne,Australia,Higher Education,Educational,PUBLISHED,2024-08-30 14:41:28,366 GB,"Swinburne University of Technology Sarawak Campus is the international branch campus of Swinburne University of Technology, Melbourne, Australia. The Sarawak campus opened in Kuching, the capital city of the Malaysian state of Sarawak, in 2000.
-pic_SUTS (1).png 817.54 KB
-pic_SUTS (2).png 70.71 KB
-pic_SUTS (3).png 83.55 KB
-pic_SUTS (4).png 239.06 KB
-pic_SUTS (5).png 242.61 KB
-pic_SUTS (6).png 356.06 KB
-pic_SUTS (7).png 53.98 KB
-pic_SUTS (8).png 60.04 KB
-pic_SUTS.png 31.12 KB",['unknown'],0,['No keyword matches'],['No pattern matches'],['No phrase matches']
-rainier arms,rainierarms.com,"Auburn, Washington",United States,Defense & Space,Privately Held,PUBLISHED,2024-08-26 14:32:51,5GB,"Company Info
-
-Rainier Arms was started by enthusiasts for enthusiasts. We specialize in high end tactical rifles, pistols & shotguns, as well as parts, optics & accessories. ""If we won't use it, we won't sell it."" Founded in 2005, Rainierarms.com has thousands of unique products, and growing. Our technical advisory team consists of enthusiasts, law enforcement, & military personnel that continue to make our offerings unique and desirable in the marketplace.",['unknown'],0,['No keyword matches'],['No pattern matches'],['No phrase matches']
-chwa,www.chwa.com.tw,"GANTHIER, OUEST",Ayiti,Staffing and Recruiting,Self-Owned,PUBLISHED,2024-08-27 20:34:10,425GB,"Quanhua Book Company was established in Taipei City in 1973. 
-
-Revenue : 25m   
-
-We have more than 400gb of private data from your network. You keep silence , but fully aware of the situation. Soon everything will be published in the blog.
-
-100G:http://xeuvs5poflczn5i5kbynb5rupmidb5zjuza6gaq22uqsdp3jvkjkciqd.onion/chwa.com.tw/
-Will disclose all after the timer ends",['unknown'],0,['No keyword matches'],['No pattern matches'],['No phrase matches']
-mineduc - ministerio de educación - guatemala,www.spie-tec.de,,,,,PUBLISHED,2024-08-26 12:56:29,10GB,"Microsoft_PowerPoint_2011_Empfehlung_BG11_B57_Praesentation_pptx.pdf 3.95 MB
-Verpackungshandbuch_der_BMW_Group_Vertrieb_de.pdf 3.38 MB
-Adjusting of the horizont.pdf 45.92 KB
-Quality Offer_Korens [Kompatibilitätsmodus].pdf 3.59 MB
-INFO_20140801_Projekt_Verlagerung_PKW_08_69_deutsch.pdf 121.51 KB
-
-http://ransombgegc4e2vuq45noxekkmauikzt7qu6ab2rqsthdyxdpdufbqid.onion/files/5ea402df-2ad1-4d53-8080-e754bca97b76/2017_Feedback-KORENS-KW18_0502_TJ_IW.pdf
-
-They visited the chat multiple times and stayed silent so we decided to publish some sample data which are contracts with BMW GROUP (BMW,MINI COOPER,ROLLS-ROYCE
-You have 7 days to pay or we will publish all your documents (contracts,confidential engine docs,bank transfers,...)","['PII', 'Legal Documents']",70,"[""Keyword match: 'contract' (Category: Legal Documents)""]","[""Pattern match: '(\\+?\\d{1,4}[-.\\s]?(\\d{1,4}[-.\\s]?)?(\\d{1,4}[-.\\s]?)?\\d{4})' (Category: PII)""]",['No phrase matches']
-prasarana malaysia berhad,prasarana.com.my,Kuala Lumpur,Malaysia,"Transportation, Logistics, Supply Chain and Storage",Government Agency,PUBLISHED,2024-08-25 14:58:39,316GB,"We are the owner-operator of the country’s rail services, including LRT networks, KL Monorail and the MRT lines. In addition to that, we are also the owner-operator for the stage bus services in Kuala Lumpur, Selangor, Penang and Pahang. ",['unknown'],0,['No keyword matches'],['No pattern matches'],['No phrase matches']
-swinburne university of technology,saudi arabia(general secretariat of the military service council),Melbourne,Australia,Higher Education,Educational,PUBLISHED,2024-08-22 08:11:56,140GB,"All the documents are in Arabic. Does anyone need this?
-Try paying me, and I'll delete all these files from my end.",['unknown'],0,['No keyword matches'],['No pattern matches'],['No phrase matches']
-whittaker co,www.banhampoultry.co.uk,"New Castle, PA",United States,Facilities Services,Privately Held,PUBLISHED,2024-08-21 12:03:03,50Gb,"Owner 2 Sisters Food Group
+matched_company,website,Industry,Headquarters,Country,Description,Company Size,date_compromised,visits,data_size,compromised_category,RansomGroup
+ciot | stone & tile,ciot.com,Wholesale Building Materials,"Montréal, Québec",Canada,"Established in 1950 in Montreal, Ciot is a major importer and distributor of Natural & Engineered Stone Slabs, Ceramic Tiles, Artistic Mosaics, Engineered Hardwood and Plumbing accessories.
 
-Banham Poultry is a British poultry producer, based in Attleborough, Norfolk, with an annual turnover of £100 million. Its chairman was Michael Foulger, who was also deputy chairman of Norwich City.
+A top-tier supplier for both residential and commercial markets, Ciot offers a vast, impressive selection of high-quality, exclusive products at affordable prices. Ciot’s customers benefit from access to the best and the latest global products, skilled artisans who work with the industry’s top technology, and helpful experts to assist you in making the best selections for all construction and renovation projects of all scopes.
 
-In 2018, the company was put up for sale; a few days later, two pest control contractors were found dead near the Banham site.
 
-The company has more than 1,000 employees. The company was bought by Chesterfield Poultry in October 2018.
+The company operates showrooms in Montreal, Quebec City, Brossard, Toronto, Vaughan, Mississauga, Detroit, Atlanta, and New York.
 
-In late October 2021, Banham Poultry was bought by the Boparan Private Office, owner of poultry processor 2 Sisters Food Group and Bernard Matthews.
+---
 
-In September 2022, Branham Poultry was fined £300,000 for environmental permit violations after over 300 complaints were made regarding the strong odours of rotting carcasses. The company pleaded guilty to failing to keep activities free from odour levels likely to cause pollution outside the abattoir between January 2019 and September 2021. The judge acknowledged practices at Banham Poultry had a ""significant effect on the quality of life"" in the town.","['Legal Documents', 'Employee and HR Data']",40,"[""Keyword match: 'employee' (Category: Employee and HR Data)"", ""Keyword match: 'contract' (Category: Legal Documents)""]",['No pattern matches'],['No phrase matches']
-capital fund 1,capitalfund1.com,"Scottsdale, Arizona",United States,Real Estate,Privately Held,PUBLISHED,2024-08-20 18:29:58,*GB,"CapitalFund1 were hacked and refused to protect their customers' data
-The passwords have already been posted on this blog! Enjoy!
+En affaires depuis 1950, Ciot est aujourd’hui l’un des plus grands détaillants et importateurs de marbre, de granit, d’ardoise, d’onyx, de carreaux de céramique, de mosaïque et d’accessoires d’eau. 
 
-capitalfund1.com
+Bénéficiant d’une présence formidable dans les marchés résidentiels et commerciaux, le groupe Ciot offre une vaste sélection de produits exclusifs à des prix abordables. Ciot dessert également le marché des architectes et designers. Nos professionnels trouvent les solutions les mieux adaptés aux besoins, et ce peu importe l’envergure du projet. Des hôtels aux projets résidentiels, nos représentants possèdent les connaissances et l’expertise pour donner la touche personnalisée qui fera d’un projet une grande réussite.
 
-Contacts:
+La société possède des espaces de vente à Montréal, Québec, Brossard, Laval, Toronto, Vaughan, Mississauga, Détroit, New York.",201-500 employees,2024-08-29 09:23:43,6242,1TB,['unknown'],RansomHub
+nissan dubai,www.nissan-dubai.com,Retail,Dubai,الإمارات العربية المتحدة,,11-50 employees,2024-08-31 13:23:20,5820,50 GB,"['Databases', 'Customer and Client Data', 'PII', 'Employee and HR Data']",RansomHub
+grant associates,grant-associates.uk.com,Architecture and Planning,"Bath, UK",United Kingdom,"Grant Associates is a pioneering international landscape architecture practice with offices in Bath, UK and Singapore, Asia.
 
-Capital Fund 1 - Arizona
-14555 N Scottsdale Rd | STE 200
-Scottsdale, AZ 85254
-(480) 889-6100
+Our work reconnects people with nature in insightful, delightful and distinctive ways whilst addressing the global challenges of urbanisation, the climate crisis and biodiversity extinction. 
 
-Capital Fund 1 - Texas
-400 Las Colinas Blvd | STE 270
-Irving, TX 75039
-(469) 501-1820
+Our design process is underpinned by a knowledge of human behaviour, nature and ecological science combined with innovative design technology. We bring original thinking, creative collaboration and are exploring what regenerative design and the circular economy means to landscape architecture. 
 
-Capital Fund 1 - Georgia (NEW MARKET)
-One West Court Square | STE 750
-Decatur, GA 30030
-(615) 455-5644
+While we enjoy being playful and inventive, our approach isn’t just about experience and aesthetics. It’s about the creation of inspirational places and spaces that have purpose, a distinctive identity, feel good to be in, promote wellbeing and are part of a healthy, biodiverse ecosystem. 
 
+Our varied portfolio includes ambitious large-scale, landmark projects through to small, perfectly formed local ventures. We work just as happily in urban and rural environments but we push and challenge ourselves every time, determined to remain at the forefront of change and relevance in the world of landscape architecture.",11-50 employees,2024-08-30 19:56:47,6214,400GB,['unknown'],RansomHub
+gruyeria,www.gruyeria.ch,Real Estate,Bulle,France,"SAVOIR-FAIRE MYTHIQUE, TRADITION INTEMPORELLE
+Dans le monde entier GRUYERIA a réalisé et réalise des projets professionnels ou privés répondant aux plus hautes exigences (hôtels, banques, appartements, villas, chalets, résidences secondaires.…). Riche d’un savoir-faire exceptionnel, en mains de la même famille depuis plus d’un siècle, GRUYERIA réunit tous les métiers de la décoration d’intérieur et de l’artisanat pour façonner des univers qui créent la différence. L’agencement est aujourd’hui notre coeur de métier et la réputation de GRUYERIA a largement dépassé les frontières.
 
-Capital Fund 1 - Colorado
-1425 Market St. | STE 225
-Denver CO 80202
-(720) 432-2947
+Imaginer l’agencement d’un espace non-conventionnel, créer un mobilier sur mesure et/ou entreprendre des travaux plus conséquents, GRUYERIA  est capable de diriger tous les corps de métier et de coordonner leur travail à celui de l’architecte. Ce n’est pas un hasard si les plus grands d’entre-eux font appel à nous…
 
-Capital Fund 1 - Tennessee
-109 Westpark Dr | STE 315
-Brentwood, TN 37027
-(615) 455-5644
+GRUYERIA compte aujourd’hui environ 80 employés qui partagent une même philosophie : un goût de l’esthétisme ancré dans la tradition et le savoir-faire. ",51-200 employees,2024-08-30 15:16:41,5783,80 GB,['unknown'],RansomHub
+mvz für laboratoriumsmedizin,www.iph-bet.fr,Musicians,,,,2-10 employees,2024-08-30 15:07:28,5682,678 GB,['Customer and Client Data'],RansomHub
+mineduc - ministerio de educación - guatemala,www.mineduc.gob.gt,,,,MINEDUC - Ministerio de Educación - Guatemala is a company based out of Guatemala.,,2024-08-30 14:45:55,5591,529 GB,['unknown'],RansomHub
+swinburne university of technology,www.swinburne.edu,Higher Education,Melbourne,Australia,"Swinburne University of Technology is a world-class university creating social and economic impacts through science, technology and innovation. In 2022, Swinburne ranked in the top 250 global universities in the Academic Ranking of World Universities (ARWU), confirming its place in the top 1% of universities worldwide. Swinburne confirmed its place in the top 50 universities in the world under 50 years old, rising twelve places in the 2022 Times Higher Education (THE) Young University Rankings. 
 
-About: We are committed to helping you get your deal done with a fast, simple process that gets you the funding you need to create a successful real estate project. For the last decade, we have been Arizona's fastest, most reliable private-money lender because we are responsive, innovative, experienced, service-oriented, and we do it right the first time. Once you work with one of our private money loan experts, you will see why thousands of real estate investors have put their trust in us.
+We're a large and culturally diverse organisation with a desire to innovate and bring about positive change. Swinburne offers undergraduate and postgraduate courses, vocational education and research qualifications. We have three campuses located in the eastern suburbs of Melbourne — at Hawthorn, Croydon and Wantirna, as well as a fourth campus in Sarawak, Malaysia. The National Institute of Circus Arts is located in Prahran, Melbourne and we also offer a range of qualifications online through Swinburne Online and Open Universities Australia. In 2019, we unveiled new locations in Sydney and Vietnam and also opened an office in Nanjing, China – further connecting us to some of the fast-growing regions in the world.
 
-WARNING!
-If you cooperate with CapitalFund1 your personal, insurance and financial data has been stolen! Your money can be stolen at any time!
+Join the conversation, follow us on:
+Facebook: https://www.facebook.com/swinburneuniversityoftechnology
+Twitter: @Swinburne
+Instagram: @Swinburne
+TikTok: @SwinburneUniversity
+YouTube: https://www.youtube.com/channel/UCzA9KPphNMJEK1J4gWebNQQ
 
-ATTENTION!
-CapitalFund1 is fully aware of the hack and the presence of multiple vulnerabilities in the company. However they have refused all offers to protect their investors' data from being leaked. This company has a $1,000,000 cybercrime insurance policy that could have fully protected the data but the management refused to cooperate and took the proceeds from the insurance company for themselves, framing their clients. We have made hundreds of calls and sent hundreds of letters to the management and staff of CapitalFund1 but they clearly responded that they do not care about the personal and financial data of their clients. We would like to announce the names of those who have expressed such a stance towards their clients and their data and have agreed that we will use all stolen financial, personal and insurance data of investors and clients for criminal purposes:
+Swinburne University of Technology: https://www.swinburne.edu.au/
+Jobs at Swinburne: https://swinjobs.nga.net.au/cp/index.cfm?event=jobs.home
 
-Michael Anderson - Literally said he didn't care about his clients and their data and hung up on numerous calls and offers from us.
-Noah Brocious - Hung up on calls and offers of compromise.
-Kevin Highmark - Said it didn't matter to him what happened to the data.
-Tyler Larson - Didn't want to talk about it.
-Dean Bloxom - Said the most important thing is that the company will get the insurance for this case and that he doesn't care about the customer data.
-Buddy Satterfield - Didn't reply even though he read all the emails.
-Mike Lofton - Didn't take any action for a month despite all the information.
+Swinburne University Sarawak, Malaysia campus: https://www.swinburne.edu.my/
+For jobs at our Sarawak campus: https://www.swinburne.edu.my/hr/search-apply.php
 
-The rest of the company also ignored and laughed at suggestions to protect investor data. This shows the real attitude of Capitalfund towards its partners and investors. And given that the company stores all data in the open and there are hundreds of vulnerabilities in the network, it will be hacked even more often as we have all access to their network which will be published on many hacker forums.
+CRICOS provider code: 00111D
+Training Organisation Identifier (TOID): 3059
+TEQSA PRV12148 Australian University","1,001-5,000 employees",2024-08-30 14:41:28,5615,366 GB,['unknown'],RansomHub
+rainier arms,rainierarms.com,Defense & Space,"Auburn, Washington",United States,"Rainier Arms was started by enthusiasts for enthusiasts. We specialize in high end AR15s/M16s, parts & accessories. ""If we won't use it, we won't sell it."" Founded in 2005, Rainierarms.com already has more than 6000 unique products, and growing. Our technical advisory team consists of enthusiasts, law enforcement, & military personnel that continue to make our offerings unique and desirable in the market place.",51-200 employees,2024-08-26 14:32:51,6241,5GB,['unknown'],RansomHub
+chwa,www.chwa.com.tw,Staffing and Recruiting,"GANTHIER, OUEST",Ayiti,"CHWA est une société de consulting spécialisé dans les domaines de la finance, de l'ingénierie, des NTIC et du tourisme exclusivement réservé au marché haïtien, qui a besoin de professionnels pour développer son économie. CHWA met l'accent sur la compétence, l'expérience, les connaissances du candidat peu importe son appartenance sociale dans la société haïtienne.
 
-CapitalFund1 is the most dangerous fund you can choose to cooperate with. By naming multiple vulnerabilities and keeping data in the open CapitalFund1 management tries to attract clients by promising them easy money. However, at any moment all the money, clients' insurance data, clients' personal data and confidential information can be stolen, which we did. Among the stolen data:
+CHWA is a consulting company specialized in  finance, engineering, new technologies and tourism exclusively reserved to the haitian market that is in need of prfoesionnal individuals to help in the development of its economy. CHWA underlines the skills, the experience and the knowledge of its candidate regardless his or her social class in the haitian society.
 
-- Financial documents
-- Personal data of investors and clients
-- Confidential information about partners
-- SSN and passport data of all clients and employees of the company
-- NDA agreements
-- Critical information about partners and terms of the transaction
-- Accounting documents for many years of the company's operation
-- Databases
-- Access to various resources of the company and partners of the fund and much more
+CHWA se yon entrepriz kap chaché moun moun ki espécializé nan domèn finans, injenyè, teknologi, touris espesyalman pou maché ayisyen an ki bezwen pwofésyonèl pou dévlopé ékonomi li a. CHWA souliyé impotan konpetans, eksperyans, konésans kandida li yo nempot koté yo soti nan sosyete ayisyèn lan.",2-10 employees,2024-08-27 20:34:10,6733,425GB,['unknown'],RansomHub
+mineduc - ministerio de educación - guatemala,www.spie-tec.de,,,,MINEDUC - Ministerio de Educación - Guatemala is a company based out of Guatemala.,,2024-08-26 12:56:29,7431,10GB,"['PII', 'Legal Documents']",RansomHub
+prasarana malaysia berhad,prasarana.com.my,"Transportation, Logistics, Supply Chain and Storage",Kuala Lumpur,Malaysia,"About Prasarana Malaysia Berhad
 
-CapitalFund has fully proven its position as a cobblers in the investment industry and their clients have suffered and will suffer even more in the future. If you are their investor or client and are in their client base, you will be sent a letter of claim against CapitalFund which you can use to win money from them in court. We will also publish other data over time in which every investor will see their confidential data.
+Prasarana Malaysia Berhad (“Prasarana”) is a wholly-owned Government company established by the Ministry of Finance, set up to facilitate, undertake and expedite public infrastructure projects approved by the Government. Prasarana and its group of companies are asset-owners and operators of several public transport services, namely the LRT Ampang/ Sri Petaling and LRT Kelana Jaya lines, the KL Monorail system, as well as bus operations in Klang Valley, Penang and Kuantan. 
 
-Enjoy passwords for CAPITALFUND resources:
+The operations of these public transport systems are under the purview of Prasarana’s subsidiaries Rapid Rail Sdn Bhd (Rapid Rail) and Rapid Bus Sdn Bhd (Rapid Bus) under the Rapid KL brand name. 
 
-Amazon.com
+Rapid Rail are also operators of the two MRT lines – the Kajang Line and the Putrajaya Line. The company operates and maintains the urban rail services, covering 149 stations over a span of 205 km in total.
 
-Email: reception@capitalfund1.com
+Rapid Bus operates in the Klang Valley, Penang, and Kuantan, operating under the brands Rapid KL, Rapid Penang, and Rapid Kuantan respectively. In addition to their regular bus services, the company also operates BRT in Bandar Sunway, and feeder buses that serve LRT and MRT stations.
 
-C@pFund1!
+Prasarana is also currently developing a third LRT system – the LRT Shah Alam Line – which is scheduled to commence revenue operations in the first quarter of 2025.","10,001+ employees",2024-08-25 14:58:39,8215,316GB,['unknown'],RansomHub
+swinburne university of technology,saudi arabia(general secretariat of the military service council),Higher Education,Melbourne,Australia,"Swinburne University of Technology is a world-class university creating social and economic impacts through science, technology and innovation. In 2022, Swinburne ranked in the top 250 global universities in the Academic Ranking of World Universities (ARWU), confirming its place in the top 1% of universities worldwide. Swinburne confirmed its place in the top 50 universities in the world under 50 years old, rising twelve places in the 2022 Times Higher Education (THE) Young University Rankings. 
 
-Efax.com
+We're a large and culturally diverse organisation with a desire to innovate and bring about positive change. Swinburne offers undergraduate and postgraduate courses, vocational education and research qualifications. We have three campuses located in the eastern suburbs of Melbourne — at Hawthorn, Croydon and Wantirna, as well as a fourth campus in Sarawak, Malaysia. The National Institute of Circus Arts is located in Prahran, Melbourne and we also offer a range of qualifications online through Swinburne Online and Open Universities Australia. In 2019, we unveiled new locations in Sydney and Vietnam and also opened an office in Nanjing, China – further connecting us to some of the fast-growing regions in the world.
 
-480-361-8628
+Join the conversation, follow us on:
+Facebook: https://www.facebook.com/swinburneuniversityoftechnology
+Twitter: @Swinburne
+Instagram: @Swinburne
+TikTok: @SwinburneUniversity
+YouTube: https://www.youtube.com/channel/UCzA9KPphNMJEK1J4gWebNQQ
 
-C@pFund1!
+Swinburne University of Technology: https://www.swinburne.edu.au/
+Jobs at Swinburne: https://swinjobs.nga.net.au/cp/index.cfm?event=jobs.home
 
-Sams Club (Need to renew membership to use)
+Swinburne University Sarawak, Malaysia campus: https://www.swinburne.edu.my/
+For jobs at our Sarawak campus: https://www.swinburne.edu.my/hr/search-apply.php
 
-reception@capitalfund1.com
+CRICOS provider code: 00111D
+Training Organisation Identifier (TOID): 3059
+TEQSA PRV12148 Australian University","1,001-5,000 employees",2024-08-22 08:11:56,10660,140GB,['unknown'],RansomHub
+whittaker co,www.banhampoultry.co.uk,Facilities Services,"New Castle, PA",United States,"Consistently Cleaner Carpet. Smart Service.™ Whittaker is committed to ensuring carpet adds beauty to each facility as its designer, manufacturer and installer intended. Our low-moisture carpet cleaning machines – including our exclusive three-TRIO – makes carpet care as simple as possible.",11-50 employees,2024-08-21 12:03:03,9931,50Gb,"['Legal Documents', 'Employee and HR Data']",RansomHub
+capital fund 1,capitalfund1.com,Real Estate,"Scottsdale, Arizona",United States,"For over a decade, Capital Fund 1 has partnered with hundreds of real estate investors to provide them the capital they need. With over $4 billion in loans funded throughout the western US, we have built a reputation as a premier hard money lender. From the traditional fix and flip financing to specialized bridge loans, our loan menu is reflective of the growing real estate markets in areas we serve. Our team is experienced in offering competitive bridge, acquisition, and construction loan programs for your land, residential and commercial real estate investments. As a value add to our borrowers, the CF1 team is equipped to examine, underwrite, process, and fund properties within 24 business hours - all while keeping rates and fees competitive. 
 
-C@pFund1!
+Beyond being a capital partner, we have invested heavily in helping real estate investors grow their business. In the couple years, we've built our proprietary underwriting software from the ground up to better protect our investor dollars and borrowers' businesses. In 2021, we released those tools to the public at no cost. An example of our commitment to the real estate community.
+(BK - 0917799/NMLS #396288)",51-200 employees,2024-08-20 18:29:58,9344,*GB,"['Customer and Client Data', 'Legal Documents', 'PII', 'Healthcare Data', 'Employee and HR Data', 'Databases']",RansomHub
+blower-dempsay corporation,blowerdempsay.com,Packaging & Containers,"Santa Ana, California",United States,"Founded by the Blower and Dempsay families as a corrugated box sheet plant in 1973, Pacific Western Container later formed sister company, Pak West, as our paper and packaging distribution arm.
 
-Fedex.com
+In 1995, the packaging systems division was created, followed by the acquisition of Pacific Conveyor Systems, the custom conveyor manufacturing and engineering division. Later came the recycling division, an automated guided vehicle division, and a graphic arts department.
 
-Username: reception@capitalfund1.com 
+Our latest development is Pacific Flexible Solutions, or PacFlex, designers, importers and/or manufacturers of direct food contact films and containers. We have also expanded out of our Orange County headquarters to nine states in the Western US and beyond while keeping our family first values and entrepreneurial spirit.",51-200 employees,2024-08-20 20:37:56,9550,679GB,['Employee and HR Data'],RansomHub
+inlighten,inlighten.net<Disclose>,Broadcast Media Production and Distribution,"Clarence, New York",United States,"inLighten is the leading provider of digital media solutions including traditional and interactive digital signage, self-service kiosks, video walls, check-in solutions, on-hold and environment audio and more. inLighten’s intuitive, cloud-based management system enables creation, scheduling and distribution of dynamic content from inLighten’s hosted network.  Over 2,000 institutions in the U.S. and across the world engage their audiences with inLighten products each day.",51-200 employees,2024-08-20 20:33:11,4596,1.8TB,['Customer and Client Data'],RansomHub
+network configurations - netconfig,www.netconfig.co.za,Information Technology & Services,,,"Network Configurations is a leading Managed Services Provider (MSP) & IT Outsourcing company that focuses on organizations with a high dependency on technology within their businesses. We focus on IT Department outsourcing for Small & Medium sized businesses (Up to 250 Users). Our Head Office is based in Durban with offices in Johannesburg and IT services delivered on a national level.
 
-C@pFund1!
+If you ever wished you had your own IT department, don’t! You do not need one! As a client of Network Configurations, we will take care of your IT needs so that you can focus on what's important - Your Company!
 
-USPS- Stamps
+Our unique service 
 
-Username: CFIReception
+At Network Configurations we believe in people, partnerships, services and support!",51-200 employees,2024-08-17 17:48:05,10557,20Gb,['Employee and HR Data'],RansomHub
+regent caravans,www.regentcaravans.com.au,Travel Arrangements,Somerton,United Kingdom,"Regent Caravans is a retail company based out of Warehouse 2/24-32 Stanley Dr, Somerton, Australia.",51-200 employees,2024-08-17 17:39:51,10540,30Gb,['unknown'],RansomHub
+allanmcneill chartered accountants,www.allanmcneill.co.nz,Accounting,Palmerston North,New Zealand / Aotearoa,"At AllanMcNeill, we combine accounting and management disciplines with real world experience to solve business challenges. We enable our clients to achieve their goals through sound financial and strategic decision making.",11-50 employees,2024-08-17 17:31:37,9959,30Gb,['Customer and Client Data'],RansomHub
+lennartsfors ab,www.lennartsfors.com,Motor Vehicle Manufacturing,"Årjäng, Värmland",Sverige,"Lennartsfors AB develops, manufacture and distribute, niched vehicles and machines for transport in both terrain and road",11-50 employees,2024-08-17 17:29:14,9787,10Gb,['unknown'],RansomHub
+vinakom,www.vinakom.com,Telecommunications,"Schaumburg, IL",United States,"VinaKom is a leading internet service provider and telecommunications company  with over 1500 miles of independently owned fiber optic infrastructure. 
 
-C@pFund1!
+We specialize in:
+• Multi-Protocol Dynamic Layered Transport
+• Advanced Network Management & Security (IDS & IPS) 
+• Voice (VoIP), Private Cloud & Data Center Services
+• Managed Dark & Lit Optical (Fiber) Services
 
-Pets name – CapitalFund; City of birth - Scottsdale
+To put it simply:  VinaKom excels at creating custom engineered network solutions that are tailored to meet your company’s specific needs.   With bandwidth being the key to connectivity in the modern workplace.  We serve as a one stop show for all of your network connectivity and customized solution requirements. 
 
-Southwest(Noah):
+VinaKom’s products and services help you stay focused on your customers, rather than downtime, thanks to our 24/7 engineers*. Our solutions aim to provide you with quality voice and data to keep you connected with the modern world. You want the most advanced technology, which is why we give this to you without the hassle.  
 
-Noahb33993399
+*VinaKom Telecommunications Cisco and Microsoft certified engineers",51-200 employees,2024-08-16 20:38:50,10524,151GB,['Customer and Client Data'],RansomHub
+isnart,www.isnart.it,Government Relations,"Roma, Lazio",Italia,"ISNART - Istituto Nazionale Ricerche Turistiche - Società Consortile per Azioni ""in house"" al sistema camerale, realizza studi e pubblicazioni sul turismo, indagini, rilevazioni e progetti di fattibilità, elaborazione dati, costituzione e forniture di banche dati ed Osservatori, svolgimento di attività editoriali e di promozione e diffusione con ogni mezzo dei propri servizi, organizzazione di convegni, seminari e dibattiti in ambito turistico.
 
-Nb3993399!
+Partner strategico di amministrazioni pubbliche, la nostra mission è quella di porci come punto di riferimento qualificato per l’osservazione e lo studio dei fenomeni turistici e per accompagnare la qualificazione e lo sviluppo delle imprese dell’intera filiera turistica italiana.
 
-Southwest(Kevin):
+Per questo, da oltre 20 anni, in ISNART, realizziamo:
+- osservatori e indagini che contribuiscono a monitorare e prevedere l’andamento dell’offerta turistica del nostro Paese, anche attraverso l’utilizzo di Big Data e Open Data messi a disposizione della Pubblica Amministrazione, fornendo ai decision maker istituzionali le necessarie basi documentali per l’analisi e l’interpretazione del mercato turistico nazionale;
+- percorsi di accompagnamento per l’accrescimento della cultura d’impresa delle imprese turistiche, anche attraverso specifica progettualità e percorsi di certificazione perché possano migliorare la propria offerta e la conseguente capacità competitiva.
 
-Khighmark
+Partecipiamo, inoltre, a programmi comunitari per il turismo sostenibile, aderendo alla rete europea Necstour in qualità di partner ufficiale e partecipando ai Forum promossi dalla DG Grow - Unità turismo della Commissione Europea.
 
-Millie0513
+Da oltre 25 anni, affianchiamo Unioncamere, le Camere di Commercio e loro Unioni Regionali per sviluppare progetti, in partnership con le associazioni di categoria, finalizzati a ridurre le disomogeneità che tutt’oggi caratterizzano l’offerta turistica italiana e per favorire l'integrazione super ed interregionale dei singoli prodotti turistici.",11-50 employees,2024-08-15 11:39:48,10270,10Gb,['unknown'],RansomHub
+natural curiosities,naturalcuriosities.com,Design Services,"Chatsworth, California",United States,"Natural Curiosities is an American Art House based in California and has been in business for over 20 years. 
 
-Simplifile.com
+We are a complete Art experience supplying Printed, Handmade and Fine Art through NC and our affiliate brands, Arte Maison and The Curio Gallery.
 
-Username: Capitalfund1
+Our objective is to be a one-stop Art experience that covers all the needs of any project, whether it is a price conscious budget all the way to a one-of-a-kind Fine Art installation.
 
-C@pFund1!
+Our clients include the global interior design community, hospitality and commercial projects worldwide, private label collections for box stores and custom specific projects.
 
-MyNamePlates.com
+Based on our domestic production we offer customization on all our collections and provide a customer service experience using our in house Art Consultants.
 
-liz@capitalfund1.com
+For any inquires please contact: info@naturalcurisoties.com ",11-50 employees,2024-08-11 17:24:05,12402,3GB,"['Intellectual Property', 'Databases', 'Financial Data']",RansomHub
+jefferson county clerk's office,Jeffersoncountyclerk.org,Government Administration,"Louisville, Kentucky",United States,"The Jefferson County Clerk’s Office is a State Constitutional office with varied duties governed by the Kentucky Revised Statutes. Our office is responsible for public documents and information recorded, indexed and filed within Jefferson County.
 
-C@pFund1!
-
-GMAIL 
-
-Capitalfund1@gmail.com
-
-@Phoenix1912!
-
-DoorDash
-
-accounting@capitalfund1.com
-
-Capitalfund
-
-
-WIFI-
+The Jefferson County Clerk, Bobbie Holsclaw, serves as the Chairwoman of the Jefferson County Board of Elections and plays a key role in the conduct of elections. All petitions for candidates for elective county offices are filed with the County Clerk and drawing for ballot positions is conducted by the Clerk. She is responsible for printing ballots, canvassing the votes at Primary and General Elections; and, along with other Jefferson County Board of Election board members, certifies Election Day votes to the Secretary of State of the Commonwealth of Kentucky.",201-500 employees,2024-08-11 12:30:16,12509,47GB,"['Databases', 'Customer and Client Data']",RansomHub
+whittaker co,alliuminteriors.co.nz,Facilities Services,"New Castle, PA",United States,"Consistently Cleaner Carpet. Smart Service.™ Whittaker is committed to ensuring carpet adds beauty to each facility as its designer, manufacturer and installer intended. Our low-moisture carpet cleaning machines – including our exclusive three-TRIO – makes carpet care as simple as possible.",11-50 employees,2024-08-09 15:16:26,12295,31GB,"['Intellectual Property', 'Databases', 'Financial Data']",RansomHub
+lmgroup,lmgroup.com<Disclose>,Automation Machinery Manufacturing,"Toledo, Castilla-La Mancha",España,"LMGROUP, was born as a company dedicated to the service and development of equipment for industrial automation, providing technical and innovative solutions and growth to its activity and modernization. We stand out for the high quality and recognition of our products, for the constancy in innovative research and for the efficient after-sales service. Our services range from the design and planning of the solution to after-sales service and re-engineering, which we develop together with the customer.",51-200 employees,2024-07-14 05:42:56,12860,2+TB,"['Customer and Client Data', 'Legal Documents', 'Employee and HR Data']",RansomHub
+kempe engineering australia,kempe.com.au,Industrial Machinery Manufacturing,"Geelong, Victoria",Australia,"Kempe is a leading world class specialist engineering company providing maintenance, modernisation and process equipment products and services. Our purpose is to work in long term relationships to develop and add value to our clients’ capital assets in a flexible and collaborative manner. We provide custom designed engineering solutions to suit your specific needs supported by our in-house global delivery model which includes emerging market sourcing.
  
-CFI = Scottsdale2020
+We strive for excellence by focusing on the following client outcomes:
+
+Zero harm safety 
+Aligning with your vision, mission and values 
+Reducing whole of life costs 
+Delivering ongoing constant improvement outcomes 
+Providing state of the art technology 
+Delivering Projects / Services on time, to cost and to specification safely 
  
-CFI_Guest = cash2invest
+Our core group service offerings include:
+
+Site Maintenance including Specialist Services 
+Shutdowns 
+Products, Materials & Spares 
+Workshop Services 
+Engineering & Technical Services 
+Technology & Projects ",201-500 employees,2024-08-09 14:07:28,12087,4TB,"['Customer and Client Data', 'PII', 'Employee and HR Data']",RansomHub
+golfoycom,golfoy.com,Sporting Goods Manufacturing,Chandigarh,India,"Golfoy.com is made up of passionate golfers, geeky web coders, ingenious merchandisers and tenacious customer representatives. Since 2014, we have been building Golfoy into one of India's largest and most trusted online golf store. With a motive of making golf affordable and available pan India, we started off with Pre-Owned golf balls at rock bottom prices for golfers to play without worrying. Over the years, in continuation to our mission we developed affordable in house golf brands – Viper Golf & Golfoy Basics, which became instant hit with our customers. Today, we offer world-class selection of branded golf equipment, golf apparel, golf accessories, golf technology and golf gifts for golfers of all ages and abilities. Premier merchandise brands include TaylorMade, Callaway, Mizuno, Dunlop, Adidas, Srixon, Cleveland, US Kids, PING, Titleist, Nike Golf, FootJoy and more. But it's more than just merchandise that sets Golfoy.com apart from other golf retailers. Our Golfoy Customer Program ensures you save on every purchase you make at Golfoy. By just creating an account you can earn Golf bucks in all* your orders, which you can redeem in every subsequent purchase.",11-50 employees,2024-08-08 22:46:47,13781,3GB,"['Intellectual Property', 'Databases', 'Financial Data']",RansomHub
+investment dar bank,inv-dar.com,Banking,,,"Investment Dar Bank (DarBank) is an Islamic Investment Bank, with an authorized
+capital of US$ 1 billion and a subscribed and paid-up capital of US$ 200 million.
+Dar Bank was incorporated in August 2007 in the Kingdom of Bahrain and offers a
+broad range of innovative, Shari’ah compliant investment products and services.",11-50 employees,2024-08-08 19:44:05,14048,15GB,['unknown'],RansomHub
+rational enterprise,rationalenterprise.com<disclose>,Software Development,"Albany, NY",United States,"Rational Enterprise is a provider of Information Governance and eDiscovery software and services specifically designed for law firms and corporations. We were founded in 2006 and have offices in New York, Albany, Miami, and London. We are one of the few family-owned companies left in the industry, driven by our reputation rather than profit.  
+
+We are specialists in Information Governance and eDiscovery, with 15 years of experience in the industry. We help corporations proactively take control of their enterprise data and assist companies and law firms navigate the eDiscovery process in the most cost effective and efficient way possible. Our propriety software is equipped with cutting-edge analytics and predictive coding technology and we have a strong focus on project management and user experience. 
+
+We provide full support in Europe and in North and South America, with local data hosting, a team of dedicated senior consultants and project managers, and the highest data security standards in the industry. ",51-200 employees,2024-08-08 18:52:15,13259,2TB,['unknown'],RansomHub
+modern ceramics mfg,modernceramics.com,"Glass, Ceramics and Concrete Manufacturing","San Jose, California",United States,,11-50 employees,2024-08-02 10:55:00,13787,300GB,"['Databases', 'Customer and Client Data']",RansomHub
+amplicon international,amplicon.com,IT Services and IT Consulting,Brighton,United Kingdom,"Amplicon International, with unrivalled experience in distribution & manufacture and a history of over 40 years based firmly in engineering, has been exporting a range of advanced computer-based measurement & automation systems and products for much of its history. However, it wasn't until 1983 that Amplicon formalised its international sales effort by employing a dedicated sales team to support this area of the business.
+
+Amplicon International has its own dedicated offices, marketing resources and sales team; and as an international business Amplicon has world-wide representation through a comprehensive network of distributors. To support a growing international presence Amplicon will be looking to appoint new distributors building on the already successful distribution channel and further leveraging the brand name of Amplicon.",11-50 employees,2024-08-07 16:04:39,14640,313gb,['unknown'],RansomHub
+retaildata,retaildatallc.com,IT Services and IT Consulting,"Glen Allen, Virginia",United States,"The Pricing Intelligence Pioneer
+
+Over a 30-year history as the pricing industry pioneer and leader, we have honed a proprietary and proven process for collecting and delivering the highest quality of accurate, timely, and actionable data.
+
+We fuel retailer strategy and systems with timely and accurate data and unparalleled pricing expertise. With a customized approach to data collection and a robust process for delivering and reporting normalized data, our service offering informs decision-making and on-target strategy to win consumers and maximize business impact.
+
+TO VIEW JOB OPENINGS AND APPLY TO RETAIL DATA, PLEASE VISIT OUR CAREERS WEBSITE: RETAILDATALLC.COM/CAREERS","1,001-5,000 employees",2024-08-02 16:25:29,16510,1Tb,"['Customer and Client Data', 'Employee and HR Data']",RansomHub
+nydj apparel,nydj.com,Retail Apparel and Fashion,"Los Angeles, California",United States,"At NYDJ, we believe in the transformative power of fit, and we know that a great denim day has the ability to make you feel like the best version of yourself. Our comfortable, stylish, perfectly-fitting jeans are the reason why women – of all ages, shapes, and sizes – reach for their NYDJs time and again.
+
+Founded in Los Angeles in 2003, NYDJ pioneered the slimming denim category by introducing a revolutionary jean that was both comfortable and figure-flattering, thus igniting a cult following among women worldwide. NYDJ premium denim and pants feature the brand’s signature Lift Tuck® Slimming Technology, which sculpts a smooth, flattering silhouette to make women look and feel a full size smaller. Not only an authority in denim (NYDJ is the number-one women’s denim brand at department stores in the United States*), NYDJ now offers dress trousers and trend-right sportswear, all with NYDJ’s signature fit, comfort, and style. NYDJ is available through better department stores and boutiques in 31 countries worldwide, as well as NYDJ.com. 
+
+*Source: NPD Group’s Consumer Tracking Survey, year end 2016",201-500 employees,2024-07-31 16:56:29,16883,411gb,['unknown'],RansomHub
+wgma,wgma.org,Maritime Transportation,"Houston, Texas",United States,"WGMA (West Gulf Maritime Association) is a Texas nonprofit corporation, was organized in early 1968 to succeed the former local maritime associations in Houston, Galveston and Brownsville, Texas and to embrace within the membership of one Association the steamship owners, operators, agents along with stevedoring and/or terminal companies located in all Texas ports and the Port of Lake Charles, Louisiana. Acting through its committees appointed from the membership, the Association negotiates and administers various labor agreements with the International Longshoremen's Association in West Gulf ports. The Association provides a forum for discussions and exchanges of information between the member companies concerning a wide variety of industry challenges of mutual interest and concern.",11-50 employees,2024-07-31 16:43:40,15179,109gb,['unknown'],RansomHub
+mineduc - ministerio de educación - guatemala,labor-koblenz.de,,,,MINEDUC - Ministerio de Educación - Guatemala is a company based out of Guatemala.,,2024-07-29 15:23:47,17871,304gb,['unknown'],RansomHub
+castelli group,www.castelligroup.com,Dairy Product Manufacturing,Reggio Emilia,Italia,"Castelli Group was founded in 1892 and is based in Reggio Emilia, controlled by Lactalis Group.
+Its trademark stands for experience and history. Today, Castelli is the leading maker and distributor of Italy’s famous PDO and Typical Italian Cheeses. 
+
+Castelli Group head office controls a network of subsidiaries in France, United Kingdom, Germany and Scandinavia. The Group has cheese manufacturing, maturing and packaging plants in Italy, Hungary and Poland.
+
+The Group employs more than 1000 people in approximately twenty plants located in Italy and abroad.
+
+Castelli Group range of cheese products are unique and represent the highest quality in the Italian cheese-dairy industry.
+
+The company’s outstanding products are: Parmigiano Reggiano DOP, Grana Padano DOP, Gorgonzola DOP, Taleggio DOP, Mozzarella di Bufala Campana DOP, Pecorino Toscano DOP and Mozzarella STG
+Castelli Group’s ongoing quest for excellence has been strengthened and certified by the DOP mark, making it one of the most reliable producers in terms of quality.
+The company's brands are: Castelli, Di Vittorio, Alival, Mandara and Fattorie del Sole.
+The company’s philosophy is to aim for ever higher standards of quality, can guarantee a wide range of DOP cheeses that have deep roots in the areas where their wholesome raw materials are processed into fine cheeses.
+
+Castelli Group products are sold both under its own brand and its clients’ private labels which is evidence of the strong reputation for reliability that the group has attained among major distribution chains in Italy and abroad. Castelli Group has always devoted special attention to the foreign markets.","1,001-5,000 employees",2024-07-26 20:44:43,19349,300 GB,"['Customer and Client Data', 'PII', 'Legal Documents']",RansomHub
+alabama plate cutting co,ach.co.th,Mining,"Saginaw, Alabama",United States,"Alabama Plate Cutting Company offers a wide variety or steel plate processing and steel plate cutting services to Alabama, Tennessee, Georgia, Mississippi, and Florida.",11-50 employees,2024-07-23 16:33:43,18890,5GB,"['Intellectual Property', 'Legal Documents', 'Databases', 'Financial Data']",RansomHub
+cmi,cminsulation.com,Construction,"Englewood, Colorado",United States,"For the past two decades, CMI has provided top quality services in mechanical insulation and firestopping to government entities, public institutions, and privately held companies nationwide. CMI is a proud member or the UL Firestop Qualified Contractors Program.",51-200 employees,2024-07-25 17:10:45,18867,10Gb,['Customer and Client Data'],RansomHub
+byzan systems pvt ltd,www.byzan.com,Software Development,"Andheri (E), Mumbai, Maharashtra",India,"Byzan Systems is a 15+ year old, steadily growing IT Solutions Company. The company's objective is to provide cost effective and quality solutions. Byzan has strong credentials in the Financial Services Industry where its clients include 20+ major global financial services firms. We have a strong track record of providing solutions and services since our inception and a strong Applications Development, Management, Testing and Infrastructure Services capability. Byzan has it's office in Mumbai and has support centres in 6 other Indian cities.
+
+Byzan is focused on accelerating the adoption of consumer led innovation for enterprises - to take advantage of new revenue sources and improve operational efficiency. Enterprise Mobility and the New Web are at the core of this new innovation.
+
+Byzan has built platforms that enable rapid adoption of these new technologies for enterprises and provide specific business solutions. The firm has a robust Smart Integration Model that has been built and tested over many years with multiple clients. Byzan's Enterprise Mobility Team works with clients across the lifecycle of the overall initiative – from incubation and strategy to management and testing.",201-500 employees,2024-07-20 12:57:15,21854,120gb,['Financial Data'],RansomHub
+pt garudafood putra putri jaya tbk,www.garudafood.com,Manufacturing,"Jakarta, DKI Jakarta",Indonesia,"PT Garudafood Putra Putri Jaya Tbk is one of the largest food and beverage companies in Indonesia. Established in 1990, the founder of Garudafood has started its business activities since 1979 through PT Tudung Putra Jaya (TPJ), a company based in Pati, Central Java, which markets peanut products which later became Kacang Garuda (Garuda Peanut). Garudafood produces and markets food and beverage products under six leading brands, namely Garuda, Gery, Chocolatos, Clevo, Prochiz, and TopChiz. The products include biscuits, nuts, pilus, pellet snack, confectionery, milk drinks, cocoa powder, cheese, and dressing salad. Garudafood exports its products to more than 20 countries, focusing on ASEAN countries, Tiongkok and India.","10,001+ employees",2024-07-20 18:47:15,21132,10G,"['PII', 'Employee and HR Data']",RansomHub
+whittaker co,www.kumagaigumi.co.jp,Facilities Services,"New Castle, PA",United States,"Consistently Cleaner Carpet. Smart Service.™ Whittaker is committed to ensuring carpet adds beauty to each facility as its designer, manufacturer and installer intended. Our low-moisture carpet cleaning machines – including our exclusive three-TRIO – makes carpet care as simple as possible.",11-50 employees,2024-07-19 23:04:25,21476,5TB,"['Customer and Client Data', 'PII', 'Legal Documents']",RansomHub
+glow,www.glowfm.nl,Entertainment Providers,"Seattle, WA",United States,"Glow’s mission is to help podcast creators thrive by providing them the tools to establish direct relationships with their customers.  We enable audio creators to become audio entrepreneurs, so they can make a living doing what they love.
+
+Podcasting is the fastest growing medium in the world.  There are 700,000 podcasts today, as it is easier than ever to create a podcast.  32% of Americans listen to a podcast every month, and active weekly listeners listen to 7 podcasts per week.
+
+Yet many podcasters lack a way to create a direct relationship with their listeners.  They want solutions to offer premium content and take data-driven approaches to growing their podcasts.  Glow’s first product is the simplest solution for podcasters to allow their listeners to support them. A listener can subscribe to a premium podcast in under 15 seconds, right from the podcast player of their choice.  With a direct relationship, podcasters will be able to use Glow’s tools to grow their content, audience, and revenues.
+
+Glow is a spinout of Pioneer Square Labs, a startup studio based in Seattle.",2-10 employees,2024-07-16 13:43:46,21881,20GB,"['Intellectual Property', 'Databases', 'Financial Data']",RansomHub
+publicis global delivery (pgd),pgd.pl,"Technology, Information and Media",,,"Publicis Global Delivery (PGD); Publicis Groupe’s industry leading globally connected capability platform. Where talent, technology & operations combine to delivery amazing solutions for our clients. Expertise across Media, Data, Technology, Commerce & Production in all regions of the world.
  
-cPanel link: https://64.224.231.7:2083/
-
-Domain Registrar:
-
-https://www.secureserver.net/?pl_id=275867
-
-UN: 127073908
-
-PW: Anderson123!
-
-HotJar (tracks people on our website): katie@capitalfund1.com; Phoenix928!
-
-Zapier: katie@capitalfund1.com; Phoenix928
-
-Tucson ARMLS – tar.35864; Phoenix1
-
-Real estate sign post (Tucson Signs) – katherine@capitalfund1.com; Tucsonlender
-
-NAZ ARMLS – naz.tlarson, Phoenix1
-
-Mike’s MLS – ma162, Phoenix92020
-
-HBACA – katie@capitalfund1.com; Phoenix1
-
-AZ Sign Post (Maricopa Sings) – katherine@capitalfund1.com; Phoenix1
-
-Hubspot: M4553ffect!
-
-Superpages: Phoenix1
-
-Angies List: Phoenix1
-
-Avery: katherine@capitalfund1.com; Phoenix1
+PGD is comprised of the best talent, and ways-of-working, which enables global scale, innovation and transformation, each day.
  
-Gmail: 
-
-capitalfundaz@gmail.com
-
-Phoenix1912!
-
-Capitalfund1@gmail.com
-
-Scottsdale928!
-
-
-Hootsuite: Phoenix1234
+Culture, growth and wellbeing underline all aspects of Publicis Global Delivery.
  
-Microsoft outlook (mine): Phoenix123!
+#WeArePGD","5,001-10,000 employees",2024-07-18 11:15:11,22131,960gb,['unknown'],RansomHub
+ceopag,ceopag.com.br / ceofood.com.br,IT Services and IT Consulting,"São José do Rio Preto, SP",Brasil,"A Ceopag está presente em 20 Estados e 300 cidades e chega com produtos exclusivos, franqueados especializados, em um mercado crescente e inovador para facilitar e potencializar o faturamento do seu negócio.",201-500 employees,2024-07-16 01:54:11,21459,200GB,"['Intellectual Property', 'Customer and Client Data', 'Databases', 'Financial Data']",RansomHub
+cameron hodges,www.cameronhodges.com,,,,,,2024-07-16 12:32:19,22667,100Gb,"['Customer and Client Data', 'PII', 'Employee and HR Data']",RansomHub
+bench international,www.benchinternational.com,Executive Search Services,"La Jolla, CA",United States,"Bench International is the longest serving woman-founded executive search firm serving the Life Science and Healthcare sectors. The firm is also one of the most renowned experts in diversity recruitment at the board and executive level, as well as in R&D leadership. Bench’s scorecard reflects over $150 billion in successful client exits, a 98% project completion record, with a 75% retention for five or more years. 33% of all leaders placed in Bench’s 45+ year history have been gender and ethnically diverse. With headquarters in San Diego, California, and satellite offices in Los Angeles, San Francisco, New York, Boston, the United Kingdom and Switzerland Bench is One Global Team, No Borders, No Boundaries and One Global Budget, thus mitigating internally competitive offices. ",11-50 employees,2024-07-16 12:27:56,22642,50Gb,['Customer and Client Data'],RansomHub
+mineduc - ministerio de educación - guatemala,www.zepter.de,,,,MINEDUC - Ministerio de Educación - Guatemala is a company based out of Guatemala.,,2024-07-02 19:04:41,24720,500+GB,"['Customer and Client Data', 'PII', 'Legal Documents']",RansomHub
+mineduc - ministerio de educación - guatemala,www.eurostrand.de,,,,MINEDUC - Ministerio de Educación - Guatemala is a company based out of Guatemala.,,2024-07-11 16:06:18,25528,10 Gb,['Employee and HR Data'],RansomHub
+netavent,www.netavent.dk,"Appliances, Electrical, and Electronics Manufacturing","Herlev, Hovedstaden",Danmark,"Netavent udvikler ventilations-løsninger med fokus på effektivitet og den enkelte kundes behov.
+
+Netavent har over 30 års erfaring med opbygningen af individuelle komfort- og miljøanlæg.
+
+Vi adskiller os i branchen ved evnen til at sætte mennesket i centrum og løse opgaver, som kræver lidt ekstra.
+
+Gennem årene har vi leveret løsninger til en bred vifte af brancher i ind- og udland.
+
+Netavent's hovedkontor ligger i Herlev og vores svenske søsterselskab, Klimatbyrån AB har hovedkontor i Malmø.",11-50 employees,2024-07-11 15:54:20,25107,10Gb,['Legal Documents'],RansomHub
+bfc solutions,www.bfcsolutions.com,Facilities Services,"Nashville, TN",United States,"BFC Solutions is the largest self-performing preventative maintenance provider in the U.S. We develop planned preventative maintenance programs to identify problems before they become costly repairs. 
+
+Through our best-in-class patented filter system, coil cleaning, comprehensive site inspections, and other value-added services, we help keep your facilities and HVAC systems operating efficiently to reduce costs and achieve sustainability goals. 
+
+With 60 years of experience and 1,000 employees across the country, BFC Solutions is the trusted leader in facilities maintenance for many of the top Fortune 500 companies in industries such as retail, restaurant, convenience store, grocery, financial, entertainment, healthcare, and more. ","501-1,000 employees",2024-07-11 11:51:47,24984,1.3TB,['unknown'],RansomHub
+swcs,www.swcs-inc.com,,"LAKESIDE, California",United States,,2-10 employees,2024-07-03 10:35:35,30565,600 GB,"['Intellectual Property', 'Legal Documents']",RansomHub
+mineduc - ministerio de educación - guatemala,www.sfmedical.de,,,,MINEDUC - Ministerio de Educación - Guatemala is a company based out of Guatemala.,,2024-07-01 07:33:50,29816,100+Gb,['PII'],RansomHub
+florida health,floridahealth.gov,Government Administration,"Tallahassee, FL",United States,"Our Mission: 
+To protect, promote & improve the health of all people in Florida through integrated state, county, & community efforts.
+
+Our Vision: 
+To be the Healthiest State in the Nation.
+
+Our Values: (ICARE)
+Innovation: We search for creative solutions and manage resources wisely.
+Collaboration: We use teamwork to achieve common goals & solve problems.
+Accountability: We perform with integrity & respect.
+Responsiveness: We achieve our mission by serving our customers & engaging our partners.
+Excellence: We promote quality outcomes through learning & continuous performance improvement.
+
+To find Florida Health's official social media channels, please visit the following link: https://www.floridahealth.gov/about/social-media.html#verified","10,001+ employees",2024-07-01 21:25:24,30613,100gb,['unknown'],RansomHub
+spandex,Spandex.com,Media Production,"Dietlikon, Zurich",Schweiz/Suisse/Svizzera/Svizra,"Spandex is one of the world’s leading suppliers of signage and digital materials, sign systems, displays, tools and equipment to the sign making, graphics, wrapping, textiles and architectural markets.
+Since 1976, it’s been our business to provide complete solutions for businesses that produce signs and displays, digital prints, speciality graphics, vehicle wraps and many other forms of visual communication. With offices in 20 countries* and a broad product portfolio from industry leading brands, we offer our customers outstanding service, delivered by a team of experts. 
+Spandex serves over 40,000 customers that rely on our broad range of solutions, professional advice and service.
+For more information, please visit www.spandex.com
+
+You will find our locations in:
+Australia
+Austria
+Belgium
+Czech Republic
+Estonia
+Finland
+France
+Germany
+Italy
+Lithuania
+Norway
+Portugal
+Slovakia
+Spain
+Sweden
+Switzerland
+The Netherlands
+Turkey
+United Kingdom
+United States
+
+Find out full location details here: www.spandex.com/contact.html","1,001-5,000 employees",2024-06-28 23:36:32,31603,520GB,['unknown'],RansomHub
+sicoob,www.sicoob.com.br<Updated>,Financial Services,"Brasília, DF",Brasil,"O Sicoob é o maior sistema financeiro cooperativo do país, com mais de 8 milhões de cooperados e mais de 4,6 mil pontos de atendimento distribuídos em todo o Brasil. Somos uma cooperativa financeira que oferece aos cooperados serviços de conta corrente, crédito, investimento, cartões, previdência, consórcio, seguros, cobrança bancária, adquirência de meios eletrônicos de pagamento, entre outros. Ou seja, temos um portfólio completo para atender o nosso público. Somos reconhecidos como a terceira melhor instituição financeira do Brasil segundo o ranking “Melhores Bancos do Mundo 2024”, realizado pela Forbes em parceria com a empresa de estudos de mercado Statista.
+
+Para oferecer esse atendimento, não abrimos mão do nosso propósito de conectar pessoas para promover justiça financeira e prosperidade. Acreditamos que, para promover uma nova economia, temos que ser uma instituição diferente, é por isso que aqui cada colaborador e cooperado tem voz ativa para crescermos juntos! 
+
+Deseja falar com a gente? Confira nossos números para contato:
+
+Central de Atendimento:
+
+Capitais e regiões metropolitanas: 4000 1111*
+
+Demais localidades: 0800 642 0000
+
+*Caso a localidade não possua o serviço 4000 ou 4007, informe o número da operadora mais o DDD 61: (0xx61 4000 1111).
+
+Para informações, dúvidas, reclamações e comunicação de ocorrência de fraude, ligue para o nosso SAC 24 horas: 0800 724 4420
+
+Deseja falar com a Ouvidoria? 
+
+Para reclamações, elogios e sugestões: 0800 725 0996 (de segunda a sexta, das 8h às 20h)
+
+Deficientes auditivos ou de fala: 0800 940 0458 (de segunda a sexta, das 8h às 20h)","10,001+ employees",2024-06-01 02:13:16,34247,1TB,"['Customer and Client Data', 'Legal Documents', 'Intellectual Property', 'PII', 'Employee and HR Data', 'Databases']",RansomHub
+cipl - corporate infotech pvt ltd,www.cipl.org.in,IT Services and IT Consulting,"Noida, Uttar Pradesh",India,"Corporate Infotech Pvt. Ltd. was incorporated in the year 2007 by Mr. Vinod Kumar,  the Managing Director & CEO, with a strong ideology of fair, honest & ethical business practices.
+
+A company that is into the business of Information Technology, which gets driven with the passion, the tool, the infrastructure and the vision.
+
+To provide “one stop technology destination” for customers across all verticals.
+To help customers achieve their objectives by providing innovative, best-in-class consulting. IT solutions and services in the most effective & profitable manner.
+CIPL has been able to achieve the coveted position as one of the largest solution provider and the fastest growing company in India by creating a strong portfolio of products & services.
+
+Committed to continuous improvement and closing the capability gap, CIPL has been appraised at level 5 of the CMMI Institute’s Capability Maturity Model Integration.","1,001-5,000 employees",2024-06-27 13:30:28,31544,200GB,"['Intellectual Property', 'Customer and Client Data', 'Databases', 'Employee and HR Data']",RansomHub
+danielle group plc,daniellegroup.com,Legal Services,Manchester,United Kingdom,"Specialises in design, contract manufacture and supply of imported clothing. With separate departments dedicated to clothing, footwear, corporatewear, handbags and accessories. Manufatures in the Far East, Regional offices in China, India, Bangladesh and Veitnam.",2-10 employees,2024-06-26 13:05:23,31326,200GB,['Legal Documents'],RansomHub
+avant it as,www.cloudeurope.it,Computer and Network Security,"OSLO, OSLO",Norge,"Avant IT er et fremtidsrettet teknologiselskap som skreddersyr løsninger for deg og ditt selskap.
+
+Våre fokusområder består av IT-drift, Microsoft 365, Legal 365 som er en bransjeløsning for advokater,PC, Skjerm, Møterom og Print & Dokumentstyring samt tilhørende Onsite Service & Remotre Support av disse områdene.
+
+Vi leverer i dag innovative løsninger innenfor våre fokusområder til kunder spredt rundt i Norden. Som en dedikert Microsoft og HP-partner jobber vi kontinuerlig med å utvikle innovative løsninger for å imøtekomme våre kunders behov og ønsker.
+
+1.1.2018 fusjonerte CRM Norge og Laser Tone Norge as, med CRM Norge AS som det overtagende selskap.  Selskapets navn ble endret til Avant IT AS.
+
+Samtlige avtaler og forpliktelser selskapene innehar blir ivaretatt av Avant IT AS.
+
+Selskapene har vært samlokalisert siden 2001 og beholder post- og besøks-adresse. Samtlige ansatte er dessuten med videre.
+
+Vår historie
+Laser Tone Norge AS ble etablert i 1989 og er en multibrand leverandør av bransjeledende merkevarer som Hewlett Packard, Samsung, Lexmark og Ricoh til private bedrifter og offentlig sektor. Selskapet innehar Hewlett Packard’s høyeste sertifiseringer på salg og service og kan basert på dette rådgi sine kunder for optimalisert, sikker drift med fordelaktige betingelser.
+
+CRM Norge AS startet opp som Visma-forhandler i 2001, men har siden 2013 levert  Office 365, Dynamics 365 CRM og Azure-løsninger fra Microsoft til kunder i Norden. I 2016 ble selskapet sertifisert som Norge’s første Microsoft Gold Cloud CRM Partner. Med egen utviklingsavdeling skreddersyr man i tillegg Dynamics 365 CRM løsninger til flere ulike bransjer bl.a. salg, service, forsikring, rådgivning, advokat og eiendom.",11-50 employees,2024-06-27 12:10:36,31049,500GB,"['Databases', 'Customer and Client Data', 'PII', 'Legal Documents']",RansomHub
+avant it as,www.mangimifusco.it,Computer and Network Security,"OSLO, OSLO",Norge,"Avant IT er et fremtidsrettet teknologiselskap som skreddersyr løsninger for deg og ditt selskap.
+
+Våre fokusområder består av IT-drift, Microsoft 365, Legal 365 som er en bransjeløsning for advokater,PC, Skjerm, Møterom og Print & Dokumentstyring samt tilhørende Onsite Service & Remotre Support av disse områdene.
+
+Vi leverer i dag innovative løsninger innenfor våre fokusområder til kunder spredt rundt i Norden. Som en dedikert Microsoft og HP-partner jobber vi kontinuerlig med å utvikle innovative løsninger for å imøtekomme våre kunders behov og ønsker.
+
+1.1.2018 fusjonerte CRM Norge og Laser Tone Norge as, med CRM Norge AS som det overtagende selskap.  Selskapets navn ble endret til Avant IT AS.
+
+Samtlige avtaler og forpliktelser selskapene innehar blir ivaretatt av Avant IT AS.
+
+Selskapene har vært samlokalisert siden 2001 og beholder post- og besøks-adresse. Samtlige ansatte er dessuten med videre.
+
+Vår historie
+Laser Tone Norge AS ble etablert i 1989 og er en multibrand leverandør av bransjeledende merkevarer som Hewlett Packard, Samsung, Lexmark og Ricoh til private bedrifter og offentlig sektor. Selskapet innehar Hewlett Packard’s høyeste sertifiseringer på salg og service og kan basert på dette rådgi sine kunder for optimalisert, sikker drift med fordelaktige betingelser.
+
+CRM Norge AS startet opp som Visma-forhandler i 2001, men har siden 2013 levert  Office 365, Dynamics 365 CRM og Azure-løsninger fra Microsoft til kunder i Norden. I 2016 ble selskapet sertifisert som Norge’s første Microsoft Gold Cloud CRM Partner. Med egen utviklingsavdeling skreddersyr man i tillegg Dynamics 365 CRM løsninger til flere ulike bransjer bl.a. salg, service, forsikring, rådgivning, advokat og eiendom.",11-50 employees,2024-06-26 08:13:08,30228,490GB,"['Customer and Client Data', 'PII', 'Legal Documents', 'Employee and HR Data']",RansomHub
+multi-wing,multi-wing.com,Manufacturing,Vedbæk,Danmark,"At Multi-Wing, our mission is to shape the airflow of the future. We achieve this through our energy-saving and custom-designed airflow solutions. As a global partner with a local presence, we blend our aerodynamic expertise with cutting-edge research and development.
+
+Our products, including fans and impellers, are designed to cool HVAC/R equipment, vehicle engines, electric drivetrains, and more. This results in maximum efficiency and reduced emissions.
+
+We offer the market's broadest range of axial fan impellers through our modular system. These are tailor-made to meet your specific needs. We take the time to analyze your airflow requirements and design a solution that is just right for you.
+
+Our axial fans and impellers are manufactured with precision in ISO 9001 certified facilities worldwide, ensuring fast and reliable delivery.
+
+Our unwavering commitment to solving even the most complex airflow challenges has made us the preferred partner for some of the world's leading brands.
+
+Multi-Wing stands at the forefront of airflow technology, committed to delivering innovative and efficient solutions that meet the demands of today and shape the future of airflow. We invite you to join us on this exciting journey.","501-1,000 employees",2024-06-13 07:52:55,31431,900GB,"['Databases', 'Customer and Client Data']",RansomHub
+invisio,www.invisio.com,Defense & Space,Hvidovre,Danmark,"INVISIO offers cutting-edge personal communication and hearing protection systems. The systems enable users to operate and communicate safely and clearly in all environments, even under extreme conditions, such as loud noise, heat, and underwater. 
+
+INVISIO systems consist of headsets and advanced control units that interface to a wide range of communication devices. The systems provide hearing protection while maintaining the natural level of situational awareness. 
+
+Customers are mainly from the public sector. Sales are made via a global network of partners and to some extent directly to end customers.  
+
+INVISIO is listed on Nasdaq Stockholm (IVSO). 
+
+Additional information is available on www.invisio.com.",51-200 employees,2024-06-19 18:56:16,34728,400 GB,['PII'],RansomHub
+parlorenzo sl,parlorenzo.com,Accounting,MADRID,España,,11-50 employees,2024-06-16 14:46:27,34155,37GB,"['Customer and Client Data', 'PII']",RansomHub
+avant it as,www.gbricambi.it [UPDATE],Computer and Network Security,"OSLO, OSLO",Norge,"Avant IT er et fremtidsrettet teknologiselskap som skreddersyr løsninger for deg og ditt selskap.
+
+Våre fokusområder består av IT-drift, Microsoft 365, Legal 365 som er en bransjeløsning for advokater,PC, Skjerm, Møterom og Print & Dokumentstyring samt tilhørende Onsite Service & Remotre Support av disse områdene.
+
+Vi leverer i dag innovative løsninger innenfor våre fokusområder til kunder spredt rundt i Norden. Som en dedikert Microsoft og HP-partner jobber vi kontinuerlig med å utvikle innovative løsninger for å imøtekomme våre kunders behov og ønsker.
+
+1.1.2018 fusjonerte CRM Norge og Laser Tone Norge as, med CRM Norge AS som det overtagende selskap.  Selskapets navn ble endret til Avant IT AS.
+
+Samtlige avtaler og forpliktelser selskapene innehar blir ivaretatt av Avant IT AS.
+
+Selskapene har vært samlokalisert siden 2001 og beholder post- og besøks-adresse. Samtlige ansatte er dessuten med videre.
+
+Vår historie
+Laser Tone Norge AS ble etablert i 1989 og er en multibrand leverandør av bransjeledende merkevarer som Hewlett Packard, Samsung, Lexmark og Ricoh til private bedrifter og offentlig sektor. Selskapet innehar Hewlett Packard’s høyeste sertifiseringer på salg og service og kan basert på dette rådgi sine kunder for optimalisert, sikker drift med fordelaktige betingelser.
+
+CRM Norge AS startet opp som Visma-forhandler i 2001, men har siden 2013 levert  Office 365, Dynamics 365 CRM og Azure-løsninger fra Microsoft til kunder i Norden. I 2016 ble selskapet sertifisert som Norge’s første Microsoft Gold Cloud CRM Partner. Med egen utviklingsavdeling skreddersyr man i tillegg Dynamics 365 CRM løsninger til flere ulike bransjer bl.a. salg, service, forsikring, rådgivning, advokat og eiendom.",11-50 employees,2024-06-20 17:28:22,31855,400 GB,['PII'],RansomHub
+avant it as,www.novabitsrl.it,Computer and Network Security,"OSLO, OSLO",Norge,"Avant IT er et fremtidsrettet teknologiselskap som skreddersyr løsninger for deg og ditt selskap.
+
+Våre fokusområder består av IT-drift, Microsoft 365, Legal 365 som er en bransjeløsning for advokater,PC, Skjerm, Møterom og Print & Dokumentstyring samt tilhørende Onsite Service & Remotre Support av disse områdene.
+
+Vi leverer i dag innovative løsninger innenfor våre fokusområder til kunder spredt rundt i Norden. Som en dedikert Microsoft og HP-partner jobber vi kontinuerlig med å utvikle innovative løsninger for å imøtekomme våre kunders behov og ønsker.
+
+1.1.2018 fusjonerte CRM Norge og Laser Tone Norge as, med CRM Norge AS som det overtagende selskap.  Selskapets navn ble endret til Avant IT AS.
+
+Samtlige avtaler og forpliktelser selskapene innehar blir ivaretatt av Avant IT AS.
+
+Selskapene har vært samlokalisert siden 2001 og beholder post- og besøks-adresse. Samtlige ansatte er dessuten med videre.
+
+Vår historie
+Laser Tone Norge AS ble etablert i 1989 og er en multibrand leverandør av bransjeledende merkevarer som Hewlett Packard, Samsung, Lexmark og Ricoh til private bedrifter og offentlig sektor. Selskapet innehar Hewlett Packard’s høyeste sertifiseringer på salg og service og kan basert på dette rådgi sine kunder for optimalisert, sikker drift med fordelaktige betingelser.
+
+CRM Norge AS startet opp som Visma-forhandler i 2001, men har siden 2013 levert  Office 365, Dynamics 365 CRM og Azure-løsninger fra Microsoft til kunder i Norden. I 2016 ble selskapet sertifisert som Norge’s første Microsoft Gold Cloud CRM Partner. Med egen utviklingsavdeling skreddersyr man i tillegg Dynamics 365 CRM løsninger til flere ulike bransjer bl.a. salg, service, forsikring, rådgivning, advokat og eiendom.",11-50 employees,2024-06-11 13:10:27,35761,13gb,"['PII', 'Legal Documents']",RansomHub
+crezit,www.crezit.com,Financial Services,"4-9-2 Roppongi, Minato, Tokyo",日本,,2-10 employees,2024-05-13 08:05:58,36213,2.5 Gb,"['Customer and Client Data', 'PII']",RansomHub
+christie's,www.christies.com<SOLD>,Retail Luxury Goods and Jewelry,"London, England",United Kingdom,"Founded in 1766, Christie’s is a world-leading art and luxury business. Renowned and trusted for its expert live and online auctions, as well as its bespoke private sales, Christie’s offers a full portfolio of global services to its clients, including art appraisal, art financing, international real estate and education.  Christie’s has a physical presence in 46 countries, throughout the Americas, Europe, Middle East, and Asia Pacific, with flagship international sales hubs in New York, London, Hong Kong, Paris and Geneva. It also is the only international auction house authorized to hold sales in mainland China (Shanghai).
+
+Christie’s auctions span more than 80 art and luxury categories, at price points ranging from $200 to over $100 million. In recent years, Christie’s has achieved the world record price for an artwork at auction (Leonardo da Vinci’s Salvador Mundi, 2017), for a single collection sale (the Collection of Peggy and David Rockefeller, 2018), and for a work by a living artist (Jeff Koons’ Rabbit, 2019).
+
+Christie’s Private Sales offers a seamless service for buying and selling art, jewellery and watches outside of the auction calendar, working exclusively with Christie’s specialists at a client’s individual pace. 
+
+Recent innovations at Christie’s include the groundbreaking sale of the first NFT for a digital work of art ever offered at a major auction house (Beeple’s Everydays, March 2021), with the unprecedented acceptance of cryptocurrency as a means of payment. As an industry leader in digital innovation, Christie’s also continues to pioneer new technologies that are redefining the business of art, including the creation of viewing and bidding experiences that integrate augmented reality, global livestreaming, buy-now channels, and hybrid sales formats.  
+
+Christie’s is dedicated to advancing responsible culture throughout its business and communities worldwide, including achieving sustainability through net zero carbon emissions by 2030.","1,001-5,000 employees",2024-05-26 04:30:35,39505,2GB,"['Customer and Client Data', 'PII', 'Employee and HR Data']",RansomHub
+brittany horne,www.brittanyhorne.com,,,,,,2024-05-20 14:29:18,39564,2GB,['unknown'],RansomHub
+houston waste solutions,www.houstonwastesolutions.com,Environmental Services,"HOUSTON, TEXAS",United States,"We are an independent Waste Company which services the Greater Houston Area. We can handle ALL of your waste needs!!!
+
+At Houston Waste Solutions, we understand the importance of a partnership between our clients & a waste company (driven through superior customer service) that offers cost effective waste removal services. HWS is an innovative waste disposal company serving Houston and its greater surrounding areas. 
+
+Our goal is to develop a plan tailored to your specific needs. Offer a comprehensive waste management service that will work with you to customize a program that fits your schedule, your budget and is efficient.
+
+HWS offers: 
+•      Superior customer service and guaranteed next day hauling.
+•      A well maintained fleet of trucks that cover Houston and the greater Houston area
+•      Waste and recycle hauling 
+•      Open top containers 20, 30, 40 
+•      Compactors 
+•      FEL (Front End Loaders) 2, 4, 6, and 8yard containers
+•      Nightly hand pick up
+•      Monthly waste and Recycle reports
+
+•      Equipment rentals and sales
+•      Open top containers 20, 30, 40 
+•      Compactors – self-contained and stationary 
+•      Balers
+•      Receiver boxes
+•      Key personal on call 24 hours to handle ANY emergency.
+
+Houston Waste Solutions strives to see that all orders are delivered as promised, placed in the most convenient and accessible locations available and serviced in accordance with the highest professional standards. 
+
+HWS prides itself on providing the highest level of customer service, living up to commitments and getting the jobs completed as promised. We offer a full range of waste collection services from traditional roll-off boxes, compactors and balers. 
+
+Optimize current hauling, garbage disposal and recycling service to reduce overall waste management system costs
+
+Collaborate with customers staff to implement the program
+
+Offer continual improvement in customers Recycling process and assist in increasing diversion (reduce, reuse, and recycle)
+
+One point of contact for all services, as well as one invoice
+
+                                                           
+
+
+                                                          Environmental Solutions for our Future",11-50 employees,2024-05-17 12:10:39,39708,120.7 Gb,"['Customer and Client Data', 'PII', 'Legal Documents']",RansomHub
+alabama plate cutting co,www.chuoss.co.jp,Mining,"Saginaw, Alabama",United States,"Alabama Plate Cutting Company offers a wide variety or steel plate processing and steel plate cutting services to Alabama, Tennessee, Georgia, Mississippi, and Florida.",11-50 employees,2024-05-15 10:52:07,40107,20GB,['unknown'],RansomHub
+oriux,www.oriux.com,"Appliances, Electrical, and Electronics Manufacturing","Houston, Texas",United States,"ORIUX is a technology innovator of Intelligent Transportation Systems and Traffic Management solutions, providing the world with safer roads and better mobility. The company is the manufacturer of the first and most widely used ATC traffic controller in the world and provides a broad range of other products among three different product lines: data collection, detection and intersection control. The company employs more than 1,000 people in the Americas.",51-200 employees,2024-05-15 09:29:26,38874,300Gb,"['Customer and Client Data', 'Legal Documents', 'PII', 'Employee and HR Data', 'Databases', 'Utility and Infrastructure Data']",RansomHub
+eucatex,www.eucatex.com.br,Wholesale Building Materials,"São Paulo, Sp",Brasil,"Eucatex S.A. Indústria e Comércio S.A. (“Eucatex” or the “Company”) was founded in 1951 and since then has been manufacturing and selling ceiling lining and insulating material from eucalyptus fiber. These are low-density products with thermal and acoustic insulation properties, which were largely used in the Brazilian civil construction market. In the beginning of the ‘80s, financial resources generated by its operations since foundation were invested in the implementation of production lines for hardboard (high density wood fiber panels), which still is one of the flagships of the Company.
+
+Currently, Eucatex is the second largest producer of wood fiber panels in the foreign market, with a market share of 41%. In 1996, Eucatex started to manufacture MDP panels and currently has a market share of 16% in this segment in Brazil. In addition, it is the domestic leader in ceiling lining and insulating materials, wall partitions, in addition to operating in the door and flooring markets.
+
+Although Eucatex is traditionally known for its wood-related products, such as wood panels, MDP panels and related products, it also has a manufacturing line entirely integrated for the manufacture of paint (for own consumption and to the market) and resins, expanded vermiculite-based products (used in the manufacturing of wall partitions and ceiling linings with thermal insulating properties) and peat, in addition to galvanized steel roofing sheets and steel profiles. The industrial evolution of Eucatex has always been associated to the growth of its planted forests, which ensures the continuous supply of an important raw material for the company, eucalyptus wood. The Company chiefly operates in the furniture and civil construction industries, and each segment represents 48% and 35% of its income, respectively.","1,001-5,000 employees",2024-05-14 04:53:20,40207,150 GB,"['Intellectual Property', 'Customer and Client Data', 'Databases', 'Legal Documents']",RansomHub
+okuant,OKUANT - okuant.com,Real Estate,"Madrid, Community of Madrid",España,"Okuant se especializa en la adquisición y gestión integral de carteras inmobiliarias procedentes de entidades financieras y promotores.
+
+Nuestro objetivo es generar rentabilidad para nuestros clientes mediante el aprovechamiento de las oportunidades de inversión en el mercado inmobiliario español. Para ello, en OKUANT trabajamos en todas las fases del proceso, gestionando las inversiones de nuestros clientes y garantizando la seguridad y éxito de las operaciones.
+
+Nuestra tecnología, que nos permite detectar y valorar oportunidades de inversión en tiempo real, unida a nuestro posicionamiento en el mercado y mayor poder de negociación, convierten a OKUANT en la mejor opción a la hora de afrontar con garantías procedimientos de inversión y desinversión.",51-200 employees,2024-05-13 08:00:32,37780,5 Gb,"['Customer and Client Data', 'Employee and HR Data']",RansomHub
+mvz für laboratoriumsmedizin,iseta.fr,Musicians,,,,2-10 employees,2024-05-08 01:17:57,37049,100GB,['Legal Documents'],RansomHub
+erlebnisland eurostrand gmbh & co kg,www.kamojou.co.za,Hospitality,"Fintel, Lower Saxony",Deutschland,"Eurostrand is offering it all. All-inclusive club holiday with premium beverages and meals, activities, entertainment and excursions. Have yourself a Party Time weekend with your soccer club or the ladies. If you need a more relaxed but still active week away - then our ""My Holiday"" program is for you. 
+
+Looking for a venue for your next Christmas party, conference or team building? Eurostrand offers you an almost endless variety of event options. Our event team will handle every detail of planning and realization, beginning with travel arrangements including rooms, organizing coffee-breaks and evening entertainment. There are no restrictions to your imagination and space for everyone. 
+ With our all-inclusive packages you get excellent value for money.",201-500 employees,2024-05-05 06:01:35,44347,2GB,['Customer and Client Data'],RansomHub
+whittaker co,www.thaayakam.co.uk,Facilities Services,"New Castle, PA",United States,"Consistently Cleaner Carpet. Smart Service.™ Whittaker is committed to ensuring carpet adds beauty to each facility as its designer, manufacturer and installer intended. Our low-moisture carpet cleaning machines – including our exclusive three-TRIO – makes carpet care as simple as possible.",11-50 employees,2024-05-04 10:59:59,45285,10.7GB,['Databases'],RansomHub
+polaris,www.polaris.es,Manufacturing,"Medina, Minnesota",United States,"Since 1954, Polaris has proudly defined, re-defined and then raised the bar again for the powersports industry. It is reflected in the innovation we bring to the products we design and experiences we create for all those who play, work and THINK OUTSIDE.","10,001+ employees",2024-04-26 20:10:24,52438,165Gb,['Customer and Client Data'],RansomHub
+erlebnisland eurostrand gmbh & co kg,www.jutebag.co.uk,Hospitality,"Fintel, Lower Saxony",Deutschland,"Eurostrand is offering it all. All-inclusive club holiday with premium beverages and meals, activities, entertainment and excursions. Have yourself a Party Time weekend with your soccer club or the ladies. If you need a more relaxed but still active week away - then our ""My Holiday"" program is for you. 
+
+Looking for a venue for your next Christmas party, conference or team building? Eurostrand offers you an almost endless variety of event options. Our event team will handle every detail of planning and realization, beginning with travel arrangements including rooms, organizing coffee-breaks and evening entertainment. There are no restrictions to your imagination and space for everyone. 
+ With our all-inclusive packages you get excellent value for money.",201-500 employees,2024-04-25 10:18:35,54505,20 GB,['Employee and HR Data'],RansomHub
+precision time systems,www.precisiontimesystems.com,"Appliances, Electrical, and Electronics Manufacturing","Shallotte, NC",United States,,11-50 employees,2024-04-25 02:06:52,54550,700 GB,"['Customer and Client Data', 'PII']",RansomHub
+fabricainfo,www.fabricainfo.com,IT Services and IT Consulting,"São Paulo, SP",Brasil,"Com 18 anos de atuação, a FábricaInfo, empresa especializada na área de digitalização, vem oferecendo a seus clientes serviços de alta tecnologia e qualidade. A empresa possui a maior certificação mundial da área de documentos digitais e arquivos eletrônicos (CDIA) e o ITIL para gestão de serviços de T.I, consagrando-se como uma das mais experientes do Brasil.
+
+Tem mais de 200 milhões de páginas digitalizadas e centenas de projetos em execução.
+
+Atuamos em todo o Brasil e temos escritórios próprios em São Paulo, Rio de Janeiro, Brasilia, Recife, São Luis, Fortaleza e Lisboa.","1,001-5,000 employees",2024-04-17 19:19:07,60047,11.6 GiB,['Customer and Client Data'],RansomHub
+grupo cuevas,www.grupocuevas.es,Food and Beverage Services,"San Cibrao das Viñas, Ourense",España,"Una larga historia, construida durante tres siglos por cuatro generaciones de la familia de las Cuevas. Que opera de forma destacada en distintos sectores de la distribución alimentaria e industria agroalimentaria.",201-500 employees,2024-04-16 08:38:55,61529,26GB,['unknown'],RansomHub
+erlebnisland eurostrand gmbh & co kg,www.eebpsa.com.co,Hospitality,"Fintel, Lower Saxony",Deutschland,"Eurostrand is offering it all. All-inclusive club holiday with premium beverages and meals, activities, entertainment and excursions. Have yourself a Party Time weekend with your soccer club or the ladies. If you need a more relaxed but still active week away - then our ""My Holiday"" program is for you. 
+
+Looking for a venue for your next Christmas party, conference or team building? Eurostrand offers you an almost endless variety of event options. Our event team will handle every detail of planning and realization, beginning with travel arrangements including rooms, organizing coffee-breaks and evening entertainment. There are no restrictions to your imagination and space for everyone. 
+ With our all-inclusive packages you get excellent value for money.",201-500 employees,2024-04-13 12:41:44,60761,"20,2 GB",['Customer and Client Data'],RansomHub
+nrs healthcare,www.nrshealthcare.com,Medical Equipment Manufacturing,"Coalville, Leicestershire",United Kingdom," NRS Healthcare is committed to improving people's quality of life and independence every day, through the provision of daily living aids and assistive technology equipment. Our products and services help people who are living with long term health conditions, disabilities and special needs to carry out everyday tasks and to retain independence and mobility.
+
+We are the UK's leading provider of Integrated Community Equipment Services, working on behalf of the NHS and local authorities to deliver over 1 million items of essential equipment to over 250,000 homes each year. This crucial equipment helps people to live independently at home, and prevents hospital/care home admission and extended hospital stays.
+
+We also provide and repair wheelchairs on behalf of the NHS, for approximately 60,000 people in 5 English counties and the whole of Northern Ireland.
+
+Our Clinical Services division supports the business with a team of Occupational Therapists and Assistants, and provides Occupational Therapy based services to local authorities. Recent projects have included reviews of double handed care packages and seating assessments. Our Safe+Well Service operates locally in several areas of the UK, and is designed to help people find out what daily living aids could help them, where to try them out locally and where to buy them.
+
+We also offer an end-to-end telecare and assistive technology service, providing triage and assessments, installation, servicing and collection of equipment, and monitoring and response. Our clinically led service helps local authorities increase the use of telecare as a solution for supporting independent living, both for self funding service users and when funded by NHS/Council. 
+
+Our Product Division offers a range of over 3000 daily living aids for purchase by members of the public, care homes, Councils, schools, and hospitals, as well as mobility retailers. Visit www.nrshealthcare.co.uk for easy online ordering.
+
+We are proud members of the British Healthcare Trades Association (BHTA) and adhere to their Code of Practice, which is approved by the Trading Standards Institute. 
+
+For more information on our services, visit www.nrshealthcare.com.","1,001-5,000 employees",2024-04-07 10:00:48,45734,578Gb,"['Customer and Client Data', 'Legal Documents', 'Employee and HR Data']",RansomHub
+hci systems,www.hcisystems.net,Construction,"Ontario, California",United States,"HCI Systems Inc., is California’s premier low voltage technology and Sprinkler company.  We provide a wide array of services including: design, engineering, construction, and maintenance of fire protection, life safety and wireless distributed antenna Systems (“DAS”).   At HCI, our knowledgeable team has extensive expertise in the areas of Fire Suppression, Fire Sprinklers, Reg IV & Title 19, Nurse Call, Data, Voice, Structured Cabling, Access Control, Intrusion, Intercom & Sound, Sound Masking, DAS and Central Station Monitoring Services. 
  
-Cromford Report: tlarsonCF, Phoenix123
+We built our company from scratch, and now HCI is the largest independent low-voltage integrator in California.  With more than 600 team members operating our 7-locations state-wide, we are in close proximity to our clients and can respond to their needs expediently.  We work closely with our manufacturing partners to provide customized and tailored low voltage and fire protection solutions for all sectors public and private.   We have extensive experience working on both state and federal projects.  Our completed project portfolio includes all types of buildings ranging from kinder garden through high school, higher education institutions, ports, data centers, airports, terminals, borders, hospitals, assisted living homes, multi-family residential, and large or small commercial headquarters.
  
-Yelp: () Phoenix1
-
-Wordpress: rcFsc%C(7geeeyazRhFWvGD*
-
-webCEO: Phoenix1
-
-realestatesignpost.com: Tucsonlender
-
-BREW: login is katherine@capitalfund1.com, and password is 1234brew
-
-Indeed: katie@capitalfund1.com, password Phoenix1!
-
-Craigslist: katie@capitalfund1.com, password Phoenix1!
-
-TLO: katie@capitalfund1.com, password Fireblood69!
-
-Twitter: CapitalFund1, password: cfmarketing
-
-Instagram: Capitalfund, password: Phoenix1
-
-CallRail: katie@capitalfund1.com, Phoenix1
-
-Bigger Pockets: katherine@capitalfund1.com, Phoenix1
-
-Pima County Recorders: Your login is capitalfund; password Ge3urC_na
-
-RealtyTrac (Attom Data): katie@capitalfund1.com; Phoenix1!
-
-Leadpages: katie@capitalfund1.com; Phoenix1
-
-Handshake: katie@capitalfund1.com; fireblood6969
-
-SEO/PPC Dashboard with VDigital: katie@capitalfund1.com; M4553ffect!123
+We understand the needs of today’s complex and dynamic technology environment. The breadth of our services and the depth of our expertise give us exceptional abilities to deliver the best low voltage and life safety solutions to our customers. No other integration company performs for its customers with the speed, agility, and responsiveness as HCI – providing our customers with the power to connect people to information and to the world.
  
-Corelogic
- Marketrac
+Learn more about who we are and what we do at https://www.hcisystems.net/.","501-1,000 employees",2024-04-06 16:07:46,70506,500Gb,"['Customer and Client Data', 'Legal Documents', 'PII', 'Employee and HR Data', 'Financial Data', 'Databases']",RansomHub
+better accounting solutions,www.betteraccountingsolutions.com,Accounting,"New York, New York",United States,"We offer a wide range of custom accounting, bookkeeping and consulting services: Tax Accounting Services, Bookkeeping, Consulting Services, Payroll, Report Generation, QuickBooks, Tax Preparation Services. All services can be performed by one of our Small Business Accountants in-house or remotely, giving you the freedom to manage your business' finances where you choose
 
-Username: B1950204
+We provide a top quality service at an unbeatable price! 
 
-Password: welcome1
+Let's talk today!
+Phone:  (718) 215-3850
+Email: info@betteraccountingsolutions.com",51-200 employees,2024-04-06 00:34:16,71009,200 GB,['Customer and Client Data'],RansomHub
+avant it as,www.aretusamilano.it,Computer and Network Security,"OSLO, OSLO",Norge,"Avant IT er et fremtidsrettet teknologiselskap som skreddersyr løsninger for deg og ditt selskap.
 
-RealQuest
+Våre fokusområder består av IT-drift, Microsoft 365, Legal 365 som er en bransjeløsning for advokater,PC, Skjerm, Møterom og Print & Dokumentstyring samt tilhørende Onsite Service & Remotre Support av disse områdene.
 
-Username: katie@capitalfund1.com
+Vi leverer i dag innovative løsninger innenfor våre fokusområder til kunder spredt rundt i Norden. Som en dedikert Microsoft og HP-partner jobber vi kontinuerlig med å utvikle innovative løsninger for å imøtekomme våre kunders behov og ønsker.
 
-Password: 821eighttwoone
+1.1.2018 fusjonerte CRM Norge og Laser Tone Norge as, med CRM Norge AS som det overtagende selskap.  Selskapets navn ble endret til Avant IT AS.
 
+Samtlige avtaler og forpliktelser selskapene innehar blir ivaretatt av Avant IT AS.
 
-Docusign: noah@capitalfund1.com; Noahb33993399!
+Selskapene har vært samlokalisert siden 2001 og beholder post- og besøks-adresse. Samtlige ansatte er dessuten med videre.
 
-AZREIA (Talavera): jtalavera1; 143onefourthree
+Vår historie
+Laser Tone Norge AS ble etablert i 1989 og er en multibrand leverandør av bransjeledende merkevarer som Hewlett Packard, Samsung, Lexmark og Ricoh til private bedrifter og offentlig sektor. Selskapet innehar Hewlett Packard’s høyeste sertifiseringer på salg og service og kan basert på dette rådgi sine kunder for optimalisert, sikker drift med fordelaktige betingelser.
 
-Microsoft Login: katie@capitalfund1.com; sAZ85254!
+CRM Norge AS startet opp som Visma-forhandler i 2001, men har siden 2013 levert  Office 365, Dynamics 365 CRM og Azure-løsninger fra Microsoft til kunder i Norden. I 2016 ble selskapet sertifisert som Norge’s første Microsoft Gold Cloud CRM Partner. Med egen utviklingsavdeling skreddersyr man i tillegg Dynamics 365 CRM løsninger til flere ulike bransjer bl.a. salg, service, forsikring, rådgivning, advokat og eiendom.",11-50 employees,2024-04-04 21:46:49,70052,90GB,"['Databases', 'Customer and Client Data', 'PII', 'Legal Documents']",RansomHub
+pgesco,www.pgesco.com,Engineering Services,"Cairo, Egypt",مصر,"PGESCO’s vast experience contributed significantly to the understanding of power and industrial projects requirements, providing EPC/EPCM smart solutions for governmental utilities and commercial Clients.
 
-8x8 Manager Account: Capitalfund1, Capital1@
-
-8x8 Personal: katie@capitalfund1.comM4553ffect!
-
-CAPS: https://capitalfund.simplerealtybits.com/App/Dashboard, katie@capitalfund1.com; M4553ffect!
-
-Twilio recovery code TwYTUr4Qw-JEdMjTAXu0AQLz3vhKJByS18YPLtxN
-
-Loom: katie@capitalfund1.com; Gundam87
-
-Wordpress Capital Fund 1 C@pFund!3
-Google Analytics Capitalfundaz@gmail.com nb33993399
-Constant Contact Karina@CapitalFund1.com Phoenix
-Facebook Capitalfundaz@gmail.com CFMarketing
-LinkedIn
-Twitter
-Google Plus
-Gmail Capitalfundaz@gmail.com CFMarketing
-Outlook Email
-Vizzda Dailys noah@capitalfund1.com Password123!
-Surveymonkey.com karina@capitalfund1.com CFMarketing
-Computer Login Karina cfmarketing
-Dreamstime Kimberly4moore kim@capitalfund1..com
-
-**************************************************
-
-Some of investors private and confidential data has already been sold and will be used for criminal purposes. You can also download confidential data (financial, investment, SSN, personal data) shared with us by CAPITALFUND executives. Soon we will publish most of the investor data and company partners from all branches of the company. 
-
-
-
+In the field of power plants, PGESCO has designed, supervised and managed over 36,260 MW of power projects in Egypt. Similarly, PGESCO has got on its records over 13,640 MW on-going and completed projects in Libya and Iraq including all types of power plants such as combined cycle plants, steam power plants, and simple cycle power plants in addition to desalination plants, substations and transmission lines projects.","501-1,000 employees",2024-03-22 09:50:30,80289,8 Tb Crypted,"['Customer and Client Data', 'Employee and HR Data']",RansomHub
+la pastina,www.lapastina.com,Food and Beverage Services,"São Paulo, São Paulo",Brasil,"A missão da LA PASTINA é compartilhar e difundir a cultura enogastronômica mediterrânea, trazendo mais sabor à vida das pessoas e transformando toda refeição em uma celebração.
  
- ","['Customer and Client Data', 'Legal Documents', 'PII', 'Employee and HR Data', 'Databases']",100,"[""Keyword match: 'email' (Category: PII)"", ""Keyword match: 'customer' (Category: Customer and Client Data)"", ""Keyword match: 'employee' (Category: Employee and HR Data)"", ""Keyword match: 'nda' (Category: Legal Documents)"", ""Keyword match: 'database' (Category: Databases)""]","[""Pattern match: '(\\+?\\d{1,4}[-.\\s]?(\\d{1,4}[-.\\s]?)?(\\d{1,4}[-.\\s]?)?\\d{4})' (Category: PII)""]",['No phrase matches']
-blower-dempsay corporation,blowerdempsay.com,"Santa Ana, California",United States,Packaging & Containers,Privately Held,PUBLISHED,2024-08-20 20:37:56,679GB,"Founded in 1973, the Blower and Dempsay families came together to achieve one simple mission: to help businesses throughout Southern California flourish through innovative packaging solutions.",['Employee and HR Data'],20,"[""Keyword match: 'hr' (Category: Employee and HR Data)""]",['No pattern matches'],['No phrase matches']
-inlighten,inlighten.net<Disclose>,"Clarence, New York",United States,Broadcast Media Production and Distribution,Privately Held,PUBLISHED,2024-08-20 20:33:11,1.8TB,"inLighten® maintains and operates the largest digital signage network and is the leading provider of digital media solutions. inLighten's content creation, management and distribution software, and digital media players offer users the most affordable, easy-to-use and complete digital signage system on the market today.
-inLighten digital media solutions also consist of interactive kiosks, audio networks, speech privacy and web-powered printing. inLighten client services include specialized content, media design, consulting, project management and installation, training, network operations and technical support.",['Customer and Client Data'],20,"[""Keyword match: 'client' (Category: Customer and Client Data)""]",['No pattern matches'],['No phrase matches']
-network configurations - netconfig,www.netconfig.co.za,,,Information Technology & Services,Privately Held,PUBLISHED,2024-08-17 17:48:05,20Gb,Netconfig.co.za is a private company that has been in the industry for 24 years. The company currently specializes in the Information Technology and Services area. The number of employees ranges from 25 to 100. The annual revenue of Netconfig.co.za varies between 100K and 5.0M.,['Employee and HR Data'],20,"[""Keyword match: 'employee' (Category: Employee and HR Data)""]",['No pattern matches'],['No phrase matches']
-regent caravans,www.regentcaravans.com.au,Somerton,United Kingdom,Travel Arrangements,Privately Held,PUBLISHED,2024-08-17 17:39:51,30Gb,"Caravans For Every Adventure. At Regent Caravans, we have been manufacturing an extensive range of luxury caravans for over 30 years and have become known around Australia for our attention to detail and outstanding craftsmanship. ",['unknown'],0,['No keyword matches'],['No pattern matches'],['No phrase matches']
-allanmcneill chartered accountants,www.allanmcneill.co.nz,Palmerston North,New Zealand / Aotearoa,Accounting,Partnership,PUBLISHED,2024-08-17 17:31:37,30Gb," As Chartered Accountants we translate the numbers into information that is useful for you. Meet our specialist team, hear about what our clients have to say about us and learn more about the accounting software solutions we offer. ",['Customer and Client Data'],20,"[""Keyword match: 'client' (Category: Customer and Client Data)""]",['No pattern matches'],['No phrase matches']
-lennartsfors ab,www.lennartsfors.com,"Årjäng, Värmland",Sverige,Motor Vehicle Manufacturing,Public Company,PUBLISHED,2024-08-17 17:29:14,10Gb,"Vi tillverkar Järnhästen i vår fabrik i Lennartsfors, Årjängs kommun, där vi med en modern maskinpark och engagerade medarbetare, laserskär och bockar plåt, svetsar, pulverlackerar och monterar våra produkter.",['unknown'],0,['No keyword matches'],['No pattern matches'],['No phrase matches']
-vinakom,www.vinakom.com,"Schaumburg, IL",United States,Telecommunications,Privately Held,PUBLISHED,2024-08-16 20:38:50,151GB,"VinaKom Communications was founded in 1991 and is based out of Schaumburg, Illinois. We serve thousands of businesses and residential customers across the United States.",['Customer and Client Data'],20,"[""Keyword match: 'customer' (Category: Customer and Client Data)""]",['No pattern matches'],['No phrase matches']
-isnart,www.isnart.it,"Roma, Lazio",Italia,Government Relations,Privately Held,PUBLISHED,2024-08-15 11:39:48,10Gb,"Da oltre 28 anni, in ISNART - Istituto Nazionale Ricerche Turistiche, affianchiamo Unioncamere, le Camere di commercio e le loro Unioni Regionali per sviluppare progetti finalizzati a ridurre le disomogeneità dell'offerta turistica italiana e per favorire l'integrazione dei singoli prodotti turistici. ",['unknown'],0,['No keyword matches'],['No pattern matches'],['No phrase matches']
-natural curiosities,naturalcuriosities.com,"Chatsworth, California",United States,Design Services,Privately Held,PUBLISHED,2024-08-11 17:24:05,3GB,"Natural Curiosities american art house for over 20 years
+Fundada em 1947, a companhia está constantemente em busca de alimentos e vinhos de excelência em sabor e procedência para levar à mesa dos brasileiros  uma verdadeira experiência gourmet. 
 
-We have gained access to all their files and webmails, and we have encrypted and stolen the servers private information.
-If a ransom payment is not made, we will leak all private documents, databases, webmails, and source code.  ","['Intellectual Property', 'Databases', 'Financial Data']",60,"[""Keyword match: 'payment' (Category: Financial Data)"", ""Keyword match: 'source code' (Category: Intellectual Property)"", ""Keyword match: 'database' (Category: Databases)""]",['No pattern matches'],['No phrase matches']
-jefferson county clerk's office,Jeffersoncountyclerk.org,"Louisville, Kentucky",United States,Government Administration,Government Agency,PUBLISHED,2024-08-11 12:30:16,47GB,"Find information on elections, motor vehicle services, property records, and more from the Jefferson County Clerk's Office. Learn about the 2024 Primary and General Elections, renewal options, branch locations, and contact details.
-Files tree:
-Tree.txt 1.86 MB","['Databases', 'Customer and Client Data']",40,"[""Keyword match: 'contact details' (Category: Customer and Client Data)"", ""Keyword match: 'rds' (Category: Databases)""]",['No pattern matches'],['No phrase matches']
-whittaker co,alliuminteriors.co.nz,"New Castle, PA",United States,Facilities Services,Privately Held,PUBLISHED,2024-08-09 15:16:26,31GB,"Allium is a Designers Guild concept store. It was opened in Newmarket in 2000 and stocks a wide range of diverse interiors sourced from all over the world. 
+A LA PASTINA é parte do Grupo La Pastina, que conta também com as unidades de negócio World Wine e Enosteria Vino e Cocina.
 
-We have gained access to all their files and webmails, and we have encrypted and stolen the servers private information.
-If a ransom payment is not made, we will leak all private documents, databases, webmails, and source code. ","['Intellectual Property', 'Databases', 'Financial Data']",60,"[""Keyword match: 'payment' (Category: Financial Data)"", ""Keyword match: 'source code' (Category: Intellectual Property)"", ""Keyword match: 'database' (Category: Databases)""]",['No pattern matches'],['No phrase matches']
-lmgroup,lmgroup.com<Disclose>,"Toledo, Castilla-La Mancha",España,Automation Machinery Manufacturing,Self-Owned,PUBLISHED,2024-07-14 05:42:56,2+TB,"In recent years, cyber attacks have become a real threat to businesses, and many companies, including Lowe-Martin Group, have decided to protect themselves with cyber insurance. Lowe-Martin Group signed a contract with Boxx insurance, hoping that in the event of a cyber attack, the insurance company would support them and compensate for losses. However, as it turned out, the hopes were in vain.
+Com mais de 400 colaboradores e  corpo executivo estruturado, está presente em todo o território brasileiro, atendendo aos canais ON e OFF TRADE via distribuição multicanal, que inclui cerca de 3.000 pontos de vendas no varejo, além de televendas e e-commerce. 
 
-At the beginning of this year, Lowe-Martin Group fell victim to a massive cyber attack. More than 2 TB of confidential client data was stolen, and significant financial damage was inflicted. Lowe-Martin Group immediately notified Boxx insurance of the incident and provided all necessary documents and evidence to receive compensation.
+Pioneira no modelo de gestão e governança corporativa, possui um dos mais modernos  Centros de Distribuição da América Latina, com 1.500 m² de câmaras climatizadas, 11.000 posições para paletes e capacidade de armazenagem para 500 containers.
 
-To the deep disappointment of Lowe-Martin Group, Boxx insurance refused to pay compensation. Instead of supporting them in a difficult time, they apparently cited formal reasons and minor technical details in the contract. This refusal left Lowe-Martin Group in a very difficult situation. They found themselves without the financial support needed to recover from the attack and compensate their clients for losses.
+Toda essa estrutura, aliada ao DNA de Inovação, Diversidade e Qualidade faz da LA PASTINA uma empresa referência em seu segmento. Orientada pelas melhores práticas de sustentabilidade do país, está sempre aberta a novas ideias, sem medo de arriscar e de colocar o novo em prática. 
+Que tal fazer parte desse time movido por paixão e transformação?",201-500 employees,2024-03-20 09:16:29,83128,6GB,['Databases'],RansomHub
+computan,www.computan.com,IT Services and IT Consulting,"Thorold, ON",Canada,"Computan serves as the back end dev and technology team for short-handed marketing agencies and departments. 
+Your organization benefits from a reliable and dedicated team of web developers, app developers, network admins and database administrators.  We serve as a transparent and total extension of your business.  For more information on what we do and who we do it for please visit www.computan.com.",51-200 employees,2024-03-11 04:20:24,90159,72GB,"['Databases', 'Customer and Client Data', 'PII', 'Financial Data']",RansomHub
+scadea software solutions,www.scadea.com,IT Services and IT Consulting,"Princeton, New Jersey",United States,"With our core consulting and outsourcing expertise in Low Code, BPM, RPA, and Applied AI, Scadea Software Solutions is unleashing the game-changing power of Hyper Automation across the planet. 
 
-We believe that Boxx insurance acted in bad faith and deliberately evaded its obligations. When signing the cyber insurance contract, Lowe-Martin Group expected a reliable partner who would help them in case of unforeseen circumstances. However, instead, they faced indifference and formalism.
+We fully comprehend that differentiating our clients' capabilities is critical to their success, and we have the experience and breadth in areas like BPM, Appian, Salesforce, Workflow Automation platforms, Mobile App Development, Ecommerce Development, Full-Stack Development, and Performance management to ensure that our clients get the edge they desire.
 
-The experience of Lowe-Martin Group with Boxx insurance shows that not all insurance companies are willing to fulfill their obligations in full. This case can serve as a warning to other companies considering the possibility of entering into cyber insurance contracts. It is important to carefully study the terms of the contracts and choose only those partners who truly care about their clients.
+With over 500+ expert professionals on board from the most agile team, we've been providing solutions and services to enterprise customers in a variety of industries, such as banking, insurance, education, telecom, health care, etc.","501-1,000 employees",2024-03-10 11:42:33,90218,30GB,"['Databases', 'Customer and Client Data', 'PII']",RansomHub
+tv equinocio comunicações ltda,www.go4kora.tv,Newspaper Publishing,"MACAPÁ, AMAPÁ",Brasil,Jornalismo na integra.,11-50 employees,2024-03-09 13:57:00,90820,12GB,"['Databases', 'Customer and Client Data']",RansomHub
+rekamy,www.rekamy.com,Design Services,"Cyberjaya, Selangor",Malaysia,"REKAMY strives to empower a world where creativity meets no bounds and go hand in hand with easy. We pride ourselves with these 3 simple rules as we grow in this business, creative, inspiring and fullflling our clients every need.
 
-This incident underscores the importance of transparency and honesty in the insurance business, especially in the face of growing cyber threats. And in conclusion, we warn all current and future clients of Boxx insurance that when you face a similar situation, they will also do everything to leave you to your fate, and we strongly recommend that you change your insurance company.
+With our in-house eager and experienced designers and developer, we recognize the fact that usability, functionality and visualization are three of the most important factors when designing and developing our works. Using this strategy, we work with you to ensure that your messaging and marketing goals are realized with the designs we create. We will work with you and bring your idea to life. ",11-50 employees,2024-03-08 19:15:11,90895,42GB,"['Databases', 'Customer and Client Data', 'PII', 'Financial Data']",RansomHub
+merchantid,www.merchant.id,Software Development,,,"We help business with simple landing page builder & e-commerce to start, sell, market & manage.",11-50 employees,2024-03-06 14:57:31,92139,50GB,['Customer and Client Data'],RansomHub
+shooting house,www.shootinghouse.com.br,Program Development,"Guarapuava, Paraná",Brasil,"Somos uma plataforma que oferece produtos e serviços que ajudam você e sua entidade a otimizar processos e aumentar sua produtividade, sem complicações.
 
-Below, we provide all the insurance information of Lowe-Martin Group so that you can verify the truth of this matter for yourself.","['Customer and Client Data', 'Legal Documents', 'Employee and HR Data']",60,"[""Keyword match: 'client' (Category: Customer and Client Data)"", ""Keyword match: 'hr' (Category: Employee and HR Data)"", ""Keyword match: 'contract' (Category: Legal Documents)""]",['No pattern matches'],['No phrase matches']
-kempe engineering australia,kempe.com.au,"Geelong, Victoria",Australia,Industrial Machinery Manufacturing,Privately Held,PUBLISHED,2024-08-09 14:07:28,4TB,"Kempe is a leading world-class specialty engineering company providing maintenance, modernization and repair services for process equipment. Their goal is to work in long-term relationships to develop and enhance the value of our clients' capital assets through a flexible and collaborative approach. They offer customized engineering solutions to meet your specific needs, supported by our proprietary global sourcing model that includes sourcing in emerging markets.
- 
-They strive for excellence with a focus on the following customer outcomes:
- Zero Damage Security
- Alignment with your vision, mission and values
- Reducing life-cycle costs
- Ensuring continuous improvement in results
- Providing state-of-the-art technology
- Safely delivering projects/services on time, on cost and to specification.
+Nosso sistema de gestão online possui módulos que facilitam o gerenciamento da sua entidade, controlando os desempenhos e mantendo um relacionamento com os seus filiados.
 
- 
-Their core services include:
- Facility maintenance including specialized services
- Shutdowns
- Products, materials and spare parts
- Workshop services
- Engineering and technical services
- Technologies and projects
+Já parou para pensar quanto tempo é gasto para contabilizar as pontuaçōes de uma súmula? Agora imagine esse mesmo processo em várias e várias provas a longo prazo. Com a Shooting Score você irá dar fim a esse gasto desnecessário de tempo, ganhando mais agilidade no processo de pontuação das provas.",11-50 employees,2024-02-28 22:23:48,95201,60GB,"['Customer and Client Data', 'PII']",RansomHub
+ykp,www.ykp.com.br,Information Technology & Services,"São Paulo, SP",Brasil,"Nesses 34 anos, a YKP  alia  experiência  e  inovação, e  tem-se destacado no mercado de consultoria, implantação e sustentação de sistemas de gestão empresarial, apresentando ao mercado as mais modernas tecnologias. 
 
-Ronald_Fact Find_08022021.doc 319.5 KB
-NA2028299.pdf 611.02 KB
-20230824 Glen Kempe Life Insurance.pdf 913.24 KB
+Nossa empresa se especializou no atendimento às médias e grandes empresas nos mais variados segmentos destacando manufatura, serviços, agrobusiness e saúde. Com o objetivo de contribuir para a governança das instituições melhorando controles, gestão e aumentando a competitividade e a performance dessas empresas, a YKP tem à disposição dos seus clientes as melhores tecnologias de classe mundial.
 
-Employee Personal Details Schedule - 2024 - Copy.xlsx 78.23 KB","['Customer and Client Data', 'PII', 'Employee and HR Data']",90,"[""Keyword match: 'customer' (Category: Customer and Client Data)"", ""Keyword match: 'employee' (Category: Employee and HR Data)""]","[""Pattern match: '(\\+?\\d{1,4}[-.\\s]?(\\d{1,4}[-.\\s]?)?(\\d{1,4}[-.\\s]?)?\\d{4})' (Category: PII)""]",['No phrase matches']
-golfoycom,golfoy.com,Chandigarh,India,Sporting Goods Manufacturing,Nonprofit,PUBLISHED,2024-08-08 22:46:47,3GB," Golfoy is a retail company. 
-We have gained access to all their files and webmails, and we have encrypted and stolen the servers private information.
-If a ransom payment is not made, we will leak all private documents, databases, webmails, and source code.","['Intellectual Property', 'Databases', 'Financial Data']",60,"[""Keyword match: 'payment' (Category: Financial Data)"", ""Keyword match: 'source code' (Category: Intellectual Property)"", ""Keyword match: 'database' (Category: Databases)""]",['No pattern matches'],['No phrase matches']
-investment dar bank,inv-dar.com,,,Banking,Public Company,PUBLISHED,2024-08-08 19:44:05,15GB,"Established in Kuwait in 1994 as a shareholding company, The Investment Dar Company (TID) today is one of the largest Islamic finance organizations in the entire MENA region.
+Especialidades:
 
-We encrypted all your networks and extracted some interesting data from you.You cannot restore any system without our help.",['unknown'],0,['No keyword matches'],['No pattern matches'],['No phrase matches']
-rational enterprise,rationalenterprise.com<disclose>,"Albany, NY",United States,Software Development,Privately Held,PUBLISHED,2024-08-08 18:52:15,2TB," Rational Enterprise is a provider of Information Governance and eDiscovery software and services specifically designed for law firms and corporations. We were founded in 2006 and have offices in New York, Albany, and London. We are one of the few family-owned companies left in the industry, driven by our reputation rather than profit. ",['unknown'],0,['No keyword matches'],['No pattern matches'],['No phrase matches']
-modern ceramics mfg,modernceramics.com,"San Jose, California",United States,"Glass, Ceramics and Concrete Manufacturing",,PUBLISHED,2024-08-02 10:55:00,300GB,"Modern Ceramics Manufacturing manufactures precision machined ceramic components for the semiconductor, solar, medical, aerospace and oil and gas industries. With their in-house machine shop, they also produce precision machined plastic and metal parts. 
-
-leaked:
- - files from file servers (finance documents, employers lists and etc)
- - database with customer information and other service information
-
-1.png 178.5 KB
-2.png 178.72 KB","['Databases', 'Customer and Client Data']",40,"[""Keyword match: 'customer' (Category: Customer and Client Data)"", ""Keyword match: 'database' (Category: Databases)""]",['No pattern matches'],['No phrase matches']
-amplicon international,amplicon.com,Brighton,United Kingdom,IT Services and IT Consulting,Privately Held,PUBLISHED,2024-08-07 16:04:39,313gb,"Amplicon provide the marketplace with a wide range of advanced computer-based measurement and automation systems that can be customised, 
-networked and bundled for easy integration, backed by a technically competent workforce with a highly developed engineering capability and a state of the art EMC test facility.
-Capture.PNG 244.13 KB
-Capture2.PNG 190.17 KB
-Capture3.PNG 156.22 KB
-Capture4.PNG 181.19 KB",['unknown'],0,['No keyword matches'],['No pattern matches'],['No phrase matches']
-retaildata,retaildatallc.com,"Glen Allen, Virginia",United States,IT Services and IT Consulting,Privately Held,PUBLISHED,2024-08-02 16:25:29,1Tb,"In 1988, Christy Cottrell saw that businesses were operating in silos, completely disconnected from their competitors and their customers. They were blind to what was happening in the market and unable to make informed decisions about their products, pricing, and marketing strategies.
-Cottrell, who had a background in grocery retail, founded RetailData to fill this need. The company originally focused on providing retailers with accurate and up-to-date pricing information, quickly becoming a leader in the retail intelligence industry.
-Today, RetailData is a leading provider of observational intelligence and auditing solutions for businesses of all sizes and industries. The company has a team of experienced professionals who are experts in collecting and analyzing data. RetailData helps businesses make better decisions by providing them with accurate and timely data on their competitors, pricing, and products.","['Customer and Client Data', 'Employee and HR Data']",40,"[""Keyword match: 'customer' (Category: Customer and Client Data)"", ""Keyword match: 'hr' (Category: Employee and HR Data)""]",['No pattern matches'],['No phrase matches']
-nydj apparel,nydj.com,"Los Angeles, California",United States,Retail Apparel and Fashion,Privately Held,PUBLISHED,2024-07-31 16:56:29,411gb,"Established in 2003 and headquartered in Los Angeles, California, NYDJ Apparel is an apparel brand specializing in jeans.",['unknown'],0,['No keyword matches'],['No pattern matches'],['No phrase matches']
-wgma,wgma.org,"Houston, Texas",United States,Maritime Transportation,Nonprofit,PUBLISHED,2024-07-31 16:43:40,109gb,"Founded in 1968, the West Gulf Maritime Association is a non-profit maritime trade association with almost 300 members that include ship owners
-wgma.org_logo.png 31.2 KB
-1.PNG 249.95 KB
-2.PNG 174.92 KB
-3.PNG 51.77 KB
-4.PNG 82.25 KB
-5.PNG 100.8 KB
-6.PNG 56.88 KB",['unknown'],0,['No keyword matches'],['No pattern matches'],['No phrase matches']
-mineduc - ministerio de educación - guatemala,labor-koblenz.de,,,,,PUBLISHED,2024-07-29 15:23:47,304gb,"MVZ Labor Koblenz provides order entry, practice support, blood bank, POCT management, pregnancy care, and blood collection services.",['unknown'],0,['No keyword matches'],['No pattern matches'],['No phrase matches']
-castelli group,www.castelligroup.com,Reggio Emilia,Italia,Dairy Product Manufacturing,Privately Held,PUBLISHED,2024-07-26 20:44:43,300 GB,"castelli-default.png 28.59 KB
-
-
-Good afternoon, Nuova Castelli!
-This is RansomHub hacker team.
-We want to make you aware that we have been in your network for a long time and have studied your companys business.
-We have downloaded hundreds of gigabytes of your data, which is being analyzed by our best experts.
-Also, we cannot reach an agreement, we will notify each customer of the data leak.
-If you ignore or refuse to deal, we will be forced to release all your details to the public. 
-Our blog is being followed by many well-known media outlets, the case will be highly publicized and will cause devastating damage to your business. 
-The only way to avoid this is to make a deal with us. Appoint a responsible person to negotiate and let's get down to business.
-Otherwise, every client will see how you have neglected their personal information and will have a detailed plan on how to win a case against you in court.
-1.png 284.52 KB
-2.png 732.97 KB
-3.png 53.04 KB
-4.png 184.56 KB
-5.png 205.93 KB
-6.png 539.01 KB
-7.png 114.36 KB
-
-Contact us, we have left you a message.","['Customer and Client Data', 'PII', 'Legal Documents']",60,"[""Keyword match: 'personal info' (Category: PII)"", ""Keyword match: 'customer' (Category: Customer and Client Data)"", ""Keyword match: 'agreement' (Category: Legal Documents)""]",['No pattern matches'],['No phrase matches']
-alabama plate cutting co,ach.co.th,"Saginaw, Alabama",United States,Mining,,PUBLISHED,2024-07-23 16:33:43,5GB,"ach.co.th /autoclickfastfit.com / hondamaliwan.com
-AutoCorp Group Holding is a vehicle parts/insurance company. 
-We have gained access to all their files and webmails, and we have encrypted and stolen the servers private information.
-If a ransom payment is not made, we will leak all private documents, databases, webmails, and source code.","['Intellectual Property', 'Legal Documents', 'Databases', 'Financial Data']",80,"[""Keyword match: 'payment' (Category: Financial Data)"", ""Keyword match: 'nda' (Category: Legal Documents)"", ""Keyword match: 'source code' (Category: Intellectual Property)"", ""Keyword match: 'database' (Category: Databases)""]",['No pattern matches'],['No phrase matches']
-cmi,cminsulation.com,"Englewood, Colorado",United States,Construction,Privately Held,PUBLISHED,2024-07-25 17:10:45,10Gb,"CMI has a strong history of consistently delivering top-quality performance on schedule, all while tailoring to the individual needs of our clients and within budget. Our client list includes government agencies, private sector developers, and energy groups.
-
-Good private data.",['Customer and Client Data'],20,"[""Keyword match: 'client' (Category: Customer and Client Data)""]",['No pattern matches'],['No phrase matches']
-byzan systems pvt ltd,www.byzan.com,"Andheri (E), Mumbai, Maharashtra",India,Software Development,Public Company,PUBLISHED,2024-07-20 12:57:15,120gb,"Byzan Systems is a 14 year old, steadily growing IT Solutions Company. The company's objective is to provide cost effective and quality solutions on software consulting, customized applications, offshore development and systems support.Byzan's core competencies lie in the banking and financial services domain expertise by way of effective frameworks for Payment Gateways, Security and Authentication Models, Core Banking and Cross Channel Sales and Services. Byzan also provides services in the areas of Applications Support, LAN/WAN Datacenter and Support Desk Management for Electronic Banking.
-
-Byzan has its software development centers located in Mumbai and Chennai and support centers across all metros. Byzan today employs more than 250 experienced software professionals (BEs/BTechs/MCAs) with multi-country rollout experience.
----------------------------------------
-
-We have provided the avenue for them to contact us to prevent the leak, but they chose to ignore us. Should they continue to do so, the rest of the data will be posted here.
-
-image.png 259.03 KB",['Financial Data'],20,"[""Keyword match: 'payment' (Category: Financial Data)""]",['No pattern matches'],['No phrase matches']
-pt garudafood putra putri jaya tbk,www.garudafood.com,"Jakarta, DKI Jakarta",Indonesia,Manufacturing,Public Company,PUBLISHED,2024-07-20 18:47:15,10G,"Garudafood Putra Putri Jaya Tbk is one of Indonesia's largest food and beverage companies. Founded in 1990, Garudafood business activities have been initiated since 1979 by the company's founder, Darmo Putro
-
-Revenue: 5.5B
-
-We completely paralyzed their production and also downloaded some of their data. They have zero chances to recover without our help.
-
-We waited enough time and made it clear that we are going to publish all information if they don't cooperate.
-
-Due to arrogance of their recovery guy we have to make it public, but you still have some time to solve everything. Contact us through chat and finish the deal. We are waiting.
-
-Otherwise , we will publish all your data and you won't be able to recover.
-data.png 273.13 KB
-
-CHOCOLATOS 66512822.pdf 46.42 KB
-WCH8Chocolatos Choco Hazelnut.pdf 46.54 KB","['PII', 'Employee and HR Data']",70,"[""Keyword match: 'hr' (Category: Employee and HR Data)""]","[""Pattern match: '(\\+?\\d{1,4}[-.\\s]?(\\d{1,4}[-.\\s]?)?(\\d{1,4}[-.\\s]?)?\\d{4})' (Category: PII)""]",['No phrase matches']
-whittaker co,www.kumagaigumi.co.jp,"New Castle, PA",United States,Facilities Services,Privately Held,PUBLISHED,2024-07-19 23:04:25,5TB,"www.kumagaigumi.co.jp
-We've been on your network for a long time and have had time to analyze your business.
-We have stolen over 5TB of your sensitive data.
-If you ignore or refuse to deal with us, we will be forced to make all your data
-2021上期_運用管理契約-明細-20210316.pdf 1.15 MB
-01_サーバ利用者アカウント台帳.xlsx 36.59 KB
-★引渡しに伴う付属書類目録.xlsx 86.59 KB
-20230303.xdw 58.99 KB
-public.
-Our blog is being monitored by many high profile media outlets, the case will be highly publicized and will cause devastating damage to your business.
-
-
-
-The only way to avoid this is to make a deal with us. Appoint a responsible person to negotiate and get down to business.
-Otherwise, every client will see how you have disregarded their personal information and they will have a detailed plan to win the case against you in court.
-
-we have all of your datas about Your contracts  Engineers and .... we attached some sample here 
-A8 緊急時連絡表(竣工後).pdf 103.42 KB","['Customer and Client Data', 'PII', 'Legal Documents']",100,"[""Keyword match: 'personal info' (Category: PII)"", ""Keyword match: 'client' (Category: Customer and Client Data)"", ""Keyword match: 'contract' (Category: Legal Documents)""]","[""Pattern match: '(\\+?\\d{1,4}[-.\\s]?(\\d{1,4}[-.\\s]?)?(\\d{1,4}[-.\\s]?)?\\d{4})' (Category: PII)""]",['No phrase matches']
-glow,www.glowfm.nl,"Seattle, WA",United States,Entertainment Providers,Privately Held,PUBLISHED,2024-07-16 13:43:46,20GB,"glowfm.nl
-
-GlowFM is a radio/entertainment company. 
-We have gained access to all their files and webmails, and we have encrypted and stolen the servers private information.
-If a ransom payment is not made, we will leak all private documents, databases, webmails, and source code.","['Intellectual Property', 'Databases', 'Financial Data']",60,"[""Keyword match: 'payment' (Category: Financial Data)"", ""Keyword match: 'source code' (Category: Intellectual Property)"", ""Keyword match: 'database' (Category: Databases)""]",['No pattern matches'],['No phrase matches']
-publicis global delivery (pgd),pgd.pl,,,"Technology, Information and Media",Public Company,PUBLISHED,2024-07-18 11:15:11,960gb,"PGD Group is Poland's first dealership group and a forerunner of multi-branding. The Group co-founded Holding 1, listed at 171st among the largest companies in Poland.",['unknown'],0,['No keyword matches'],['No pattern matches'],['No phrase matches']
-ceopag,ceopag.com.br / ceofood.com.br,"São José do Rio Preto, SP",Brasil,IT Services and IT Consulting,Privately Held,PUBLISHED,2024-07-16 01:54:11,200GB,"CeoPag & CeoFood is a company operating in the field of payments.
-We have gained access to all their files and webmails, and we have encrypted and stolen the servers private information.
-If a ransom payment is not made, we will leak all private documents, databases, webmails, and source code. We have private information from over 6,000 restaurants and more than 600,000 customers. 
-Affiliated companies included in the leak:
-ceopag
-ceofood
-ailine
-evoluxbank
-oceanpay
-vaepay
-vibrapay
-silverpay
-pulsebank
-excellentpay
-uaipag
-usemobpay
-cooperativagontijo
-bankpax
-bancog8
-novuspay
-usapaybrasil
-gp3invest
-jasperpay
-agenciajs","['Intellectual Property', 'Customer and Client Data', 'Databases', 'Financial Data']",80,"[""Keyword match: 'payment' (Category: Financial Data)"", ""Keyword match: 'customer' (Category: Customer and Client Data)"", ""Keyword match: 'source code' (Category: Intellectual Property)"", ""Keyword match: 'database' (Category: Databases)""]",['No pattern matches'],['No phrase matches']
-cameron hodges,www.cameronhodges.com,,,,,PUBLISHED,2024-07-16 12:32:19,100Gb,"Cameron, Hodges, Coleman, LaPointe & Wright, P.A. was founded in 1980 by a group of trial lawyers. We represent insurance companies, self-insured corporations and third party administrators and specialize in the defense of personal injury and wrongful death claims including automobile, truck, etc.
-
-Accounts, payable, finance reports, salaries, billing, confidential cases, etc.
-
-Gregg W. Hooth
-Senior Associate, Cameron, Hodges, Coleman, LaPointe & Wright, P.A., Lakeland, FL, United States
-ysm37@aol.com
-greggwhooth@gmail.com
-ghooth@cameronhodges.com
-ghooth@swartzcampbell.com
-
-+1 734-718-8427
-+14072091000
-14078415030
-18567274777
-18637012100
-+19548121208
-+19549659970
-(352) 351-1119
-18636678027
-(888) 350-1119
-18638689264
-19549813064
-18638121410
-19548120840
-19549836117
-
-https://www.linkedin.com/in/gregg-w-hooth-97658616
-https://www.facebook.com/gregg.hooth
-
-==================================================
-Virgil Wright
-Partner, Cameron, Hodges, Coleman, LaPointe & Wright, Ocala, FL, United States
-monicalwright@hotmail.com
-willyvargas101@hotmail.com
-bwright@cameronhodges3.com
-juan.mella@codetel.net.do
-
-+1 352-216-3410
-+1 404-444-4144
-+12028351500
-13523511119
-13862571755
-12186241285
-+1 352-620-2760
-+1 404-923-3263
-+1 770-923-3263
-
-https://www.linkedin.com/in/virgil-wright-1ba23129
-
-==================================================
-Cheryl MacLeod
-Legal Assistant, Cameron, Hodges, Coleman, LaPointe & Wright, Ocala, FL, United States
-cheryl.macleod1962@gmail.com
-cherylmacleod1962@gmail.com
-cheryl.macleod@wellsfargo.com
-
-+17027721598
-(702) 458-4232
-
-https://www.linkedin.com/in/cheryl-macleod0162
-https://www.linkedin.com/in/cheryl-macleod-2b290388
-https://www.facebook.com/cheryl.macleod.54
-
-==================================================
-David Fifner
-Partner, Cameron, Hodges, Coleman, LaPointe & Wright, P.A., Orlando, FL, United States
-dfifner@yahoo.com
-dfifner@cameronhodges.com
-
-+1 218-400-1835
-+1 813-240-7087
-+1 813-363-0898
-+1 407-839-0120
-14078415030
-14072036281
-18139734117
-+18139854262
-+1 813-600-4608
-+12168921123
-14403312810
-+14408921123
-14409337060
-
-https://www.linkedin.com/in/david-fifner-5ab64b2
-
-==================================================
-Bradley Killinger
-Attorney, Cameron Hodges Coleman Lapointe & Wright, PA, Ocala, FL, United States
-bradley.killinger@gmail.com
-bradkillinger@hotmail.com
-bkillinger@cameronhodges3.com
-
-+13522163423
-+13523511119
-13522093001
-13522376325
-13523514380
-+13523694699
-+18132376325
-+13252163423
-13522376925
-+18139719189
-19042376925
-
-https://www.linkedin.com/in/bradley-killinger-282a0621
-https://www.facebook.com/brad.killinger.79
-
-==================================================
-Chris Coleman
-Attorney, Cameron, Hodges, Coleman, LaPointe & Wright, Ocala, FL, United States
-kellie.coleman@gmail.com
-ccoleman@cameronhodges3.com
-
-(352) 702-5085
-+13524266234
-+1 352-362-1523
-+1 650-960-4300
-13523511119
-13862571755
-13522376248
-+13523620674
-
-https://www.linkedin.com/in/chris-coleman-335773a0
-
-==================================================
-Julie Oglesby
-Additional Partner, Cameron, Hodges, Coleman, LaPointe & Wright, Daytona Beach, FL, United States
-juliebaumanjd@live.com
-
-+13212627530
-
-https://www.linkedin.com/in/julie-oglesby-10406748
-https://www.linkedin.com/in/julie-bauman-10406748
-https://www.facebook.com/julie.bee.125760
-
-==================================================
-Rachel S.
-Legal Assistant, Cameron Hodges Coleman LaPointe & Wright, P.A., Ocala, FL, United States
-rscinta@lglaw.com
-
-716-849-1333
-
-https://www.linkedin.com/in/rachel-s-b98297181
-
-==================================================
-Nicole R.
-Legal Specialist, Cameron Hodges Coleman LaPointe and Wright, Daytona Beach, FL, United States
-dstagg6492@aol.com
-br00klyn1021@aol.com
-
-(518) 253-3794
-+1 212-981-1981
-17183618500
-
-https://www.linkedin.com/in/nicole-r-67b44517
-https://www.facebook.com/nicole.stagg
-
-==================================================
-Marisol Gomez
-Paralegal, Cameron, Hodges, Coleman, LaPointe & Wright, Orlando, FL, United States
-+1 305-815-6633
-
-https://www.linkedin.com/in/marisol-gomez-50815915
-
-==================================================","['Customer and Client Data', 'PII', 'Employee and HR Data']",90,"[""Keyword match: 'account' (Category: Customer and Client Data)"", ""Keyword match: 'hr' (Category: Employee and HR Data)""]","[""Pattern match: '(\\+?\\d{1,4}[-.\\s]?(\\d{1,4}[-.\\s]?)?(\\d{1,4}[-.\\s]?)?\\d{4})' (Category: PII)""]",['No phrase matches']
-bench international,www.benchinternational.com,"La Jolla, CA",United States,Executive Search Services,Privately Held,PUBLISHED,2024-07-16 12:27:56,50Gb,"Bench International delivers leaders of leaders. Bench is the longest serving, most comprehensive and robust and largest global retained search firm in the world working exclusively in executive recruitment for the Biotech and Life Sciences industries.
-
-Stolen all customer cases",['Customer and Client Data'],20,"[""Keyword match: 'customer' (Category: Customer and Client Data)""]",['No pattern matches'],['No phrase matches']
-mineduc - ministerio de educación - guatemala,www.zepter.de,,,,,PUBLISHED,2024-07-02 19:04:41,500+GB,"images.png 4.16 KB
-
-Good afternoon, Zepter!
-This is RansomHub hacker team.
-We want to make you aware that we have been in your network for a long time and have studied your companys business.
-We have downloaded hundreds of gigabytes of your data, which is being analyzed by our best experts.
-Also, we cannot reach an agreement, we will notify each customer of the data leak.
-If you ignore or refuse to deal, we will be forced to release all your details to the public. 
-Our blog is being followed by many well-known media outlets, the case will be highly publicized and will cause devastating damage to your business. 
-The only way to avoid this is to make a deal with us. Appoint a responsible person to negotiate and let's get down to business.
-Otherwise, every client will see how you have neglected their personal information and will have a detailed plan on how to win a case against you in court.
-1.png 240.84 KB
-3.png 152.53 KB
-4.png 83.92 KB
-5.png 119.29 KB","['Customer and Client Data', 'PII', 'Legal Documents']",60,"[""Keyword match: 'personal info' (Category: PII)"", ""Keyword match: 'customer' (Category: Customer and Client Data)"", ""Keyword match: 'agreement' (Category: Legal Documents)""]",['No pattern matches'],['No phrase matches']
-mineduc - ministerio de educación - guatemala,www.eurostrand.de,,,,,PUBLISHED,2024-07-11 16:06:18,10 Gb,"Eurostrand offers premium all-inclusive holidays in Fintel and Leiwen, with sports, wellness, entertainment and party weekends.
-
-Bank, finance, projects, HR.",['Employee and HR Data'],20,"[""Keyword match: 'hr' (Category: Employee and HR Data)""]",['No pattern matches'],['No phrase matches']
-netavent,www.netavent.dk,"Herlev, Hovedstaden",Danmark,"Appliances, Electrical, and Electronics Manufacturing",Public Company,PUBLISHED,2024-07-11 15:54:20,10Gb,"Netavent designs ventilation systems for two main purposes: comfort (e.g. in office buildings, schools, hospitals) and laboratorial (e.g. at research facilities, hospitals, pharmaceutical manufacturers).
-
-Projects, finance, personal data, contracts.",['Legal Documents'],20,"[""Keyword match: 'contract' (Category: Legal Documents)""]",['No pattern matches'],['No phrase matches']
-bfc solutions,www.bfcsolutions.com,"Nashville, TN",United States,Facilities Services,Privately Held,PUBLISHED,2024-07-11 11:51:47,1.3TB,"Founded in 1961, BFC Solutions is a preventive maintenance service provider for commercial HVAC systems in the U.S. The company offers services in coil cleaning services for evaporators, condensers, refrigeration racks, walk-in coolers, and self-contained units. BFC Solutions is headquartered in Nashville, Tennessee.",['unknown'],0,['No keyword matches'],['No pattern matches'],['No phrase matches']
-swcs,www.swcs-inc.com,"LAKESIDE, California",United States,,,PUBLISHED,2024-07-03 10:35:35,600 GB," Southwest Construction Services, Inc. (SWCS- Inc.) is a full service general contractor with HVAC and Specialties divisions, providing a full range of general contracting services and materials.  Absolutely all of your data has been stolen, including sensitive information.
-Blueprints and plans for US strategic facilities and more. Contact us if you don't want to give up your privacy.
-Two Brothers executives Dan and Sam Smith show indifference to what happened.
-The IT department is performing poorly and the security of such important information leaves much to be desired.
-Screenshot_21.png 668.24 KB","['Intellectual Property', 'Legal Documents']",40,"[""Keyword match: 'contract' (Category: Legal Documents)"", ""Keyword match: 'blueprint' (Category: Intellectual Property)""]",['No pattern matches'],['No phrase matches']
-mineduc - ministerio de educación - guatemala,www.sfmedical.de,,,,,PUBLISHED,2024-07-01 07:33:50,100+Gb,"We warned you we would publish your name to the blog by July 1. Reach out to us soon or we leak the data and you face big fines.
-
-b2bgroup is lying to you. We have data that will cost more in GDPR fines than to work with us. It is in your best interest. 
-
-You have 1 week to contact us, or we publish all data. ",['PII'],20,"[""Keyword match: 'name' (Category: PII)""]",['No pattern matches'],['No phrase matches']
-florida health,floridahealth.gov,"Tallahassee, FL",United States,Government Administration,Government Agency,PUBLISHED,2024-07-01 21:25:24,100gb,"The Florida Department of Health is responsible for protecting the public health and safety of the residents and visitors of the state of Florida. It is a cabinet-level agency of the state government, headed by a state surgeon general who reports to the governor. The department has its headquarters in Tallahassee.",['unknown'],0,['No keyword matches'],['No pattern matches'],['No phrase matches']
-spandex,Spandex.com,"Dietlikon, Zurich",Schweiz/Suisse/Svizzera/Svizra,Media Production,Privately Held,PUBLISHED,2024-06-28 23:36:32,520GB,"Founded in 1976 and headquartered in Dietlikon, Switzerland, Spandex is a supplier to the sign making and display industries.",['unknown'],0,['No keyword matches'],['No pattern matches'],['No phrase matches']
-sicoob,www.sicoob.com.br<Updated>,"Brasília, DF",Brasil,Financial Services,Privately Held,PUBLISHED,2024-06-01 02:13:16,1TB,"!!!WARNING!!! IF YOU COOPERATE WITH THIS BANK WE RECOMMEND TO WITHDRAW ALL YOUR MONEY URGENTLY!!!
-
-SICOOB IS THE MOST DANGEROUS BANK FOR COOPERATION. CLIENTS' MONEY CAN BE STOLEN AT ANY TIME!!!
-
-Sicoob / UNICB
-15,065 Employees
-Phone Number: +55 40200185
-Website: www.sicoob.com.br
-Revenue: $7.8 Billion
-
-Sicoob is the most dangerous bank to collaborate with in Brazil. In the long time we've been in Sicoob's network, we've managed to steal all of Sicoob's sensitive data.
-which includes:
-
-- NDA documents
-- Personal data of customers and employees
-- Financial data
-- Accesses to various company resources
-- Data on the company's developments in various departments and source codes of IT products
-- Databases
-- Closed financial information
-
-And many other things
-
-Sicoob has a huge number of vulnerabilities in its network which helped in gaining control over many processes in the company.
-All the finances of the customers of this bank can be stolen at any time. The company's management is fully aware of this incident and can protect their customers' data of its customers from being leaked to the public. Sicoob's management has 72 hours to contact us and protect their business and their customers' data.
-If they contact us within that time, we will apply additional actions:
-
-- Stolen customer and partner data will be made publicly available and used for criminal purposes.
-- Repeated attacks will be launched against various bank structures. No amount of protection will prevent this because we are already deep inside the company.
-- We will sell valuable infrastructure information about the bank and provide remote access to interested parties.
-- We will publish the entire internal infrastructure of the bank with all access and passwords
-- The bank's ATMs and customers' money will be at risk of hacking and theft 24/7
-- There will be attacks on partners we have access to through vulnerabilities in the SICOOB network
-
-Sicoob has 72 hours to make a decision and contact us. In 72 hours we will start to release the data.
-
-1.PNG 223.64 KB
-2.PNG 1.13 MB
-3.PNG 236.68 KB
-4.PNG 175.62 KB
-5.PNG 478.83 KB
-6.PNG 190.23 KB
-7.PNG 343.44 KB
-Capture.PNG 79.02 KB","['Customer and Client Data', 'Legal Documents', 'Intellectual Property', 'PII', 'Employee and HR Data', 'Databases']",100,"[""Keyword match: 'phone' (Category: PII)"", ""Keyword match: 'customer' (Category: Customer and Client Data)"", ""Keyword match: 'employee' (Category: Employee and HR Data)"", ""Keyword match: 'nda' (Category: Legal Documents)"", ""Keyword match: 'source code' (Category: Intellectual Property)"", ""Keyword match: 'database' (Category: Databases)""]","[""Pattern match: '(\\+?\\d{1,4}[-.\\s]?(\\d{1,4}[-.\\s]?)?(\\d{1,4}[-.\\s]?)?\\d{4})' (Category: PII)""]",['No phrase matches']
-cipl - corporate infotech pvt ltd,www.cipl.org.in,"Noida, Uttar Pradesh",India,IT Services and IT Consulting,Privately Held,PUBLISHED,2024-06-27 13:30:28,200GB,"Business Services · India · 1,200 Employees
-Website www.cipl.org.in
-Revenue $292.5 Million
-
-About:
-CIPL has been able to achieve the coveted position as one of the largest technology solution provider & is the fastest growing company in IT Sector.
-
-Corporate Infotech Pvt. Ltd. aka CIPL, a company that is into the business of Information Technology, which gets driven with the passion, the tools, the infrastructure, and the vision To provide “one-stop technology destination” for customers across all verticals and To help customers achieve their objectives by providing innovative, best-in-class consulting, IT solutions and services in the most effective & profitable manner.
-
-CIPL has been able to achieve the coveted position as one of the largest solution providers and fastest-growing companies in India by creating a strong portfolio of products & services during its journey of 10 years of patent leadership.
-Committed to continuous improvement and closing the capability gap, CIPL has
-been appraised at level 3 of the CMMI Institute’s Capability Maturity Model Integration!","['Intellectual Property', 'Customer and Client Data', 'Databases', 'Employee and HR Data']",80,"[""Keyword match: 'customer' (Category: Customer and Client Data)"", ""Keyword match: 'employee' (Category: Employee and HR Data)"", ""Keyword match: 'patent' (Category: Intellectual Property)"", ""Keyword match: 'table' (Category: Databases)""]",['No pattern matches'],['No phrase matches']
-danielle group plc,daniellegroup.com,Manchester,United Kingdom,Legal Services,,PUBLISHED,2024-06-26 13:05:23,200GB," Specialises in design, contract manufacture and supply of imported clothing. ",['Legal Documents'],20,"[""Keyword match: 'contract' (Category: Legal Documents)""]",['No pattern matches'],['No phrase matches']
-avant it as,www.cloudeurope.it,"OSLO, OSLO",Norge,Computer and Network Security,Privately Held,PUBLISHED,2024-06-27 12:10:36,500GB,"CLOUD EUROPE S.r.l
-Via Giacomo Peroni, 292 - 00131 Roma
-P. IVA  13441661009
-https://www.cloudeurope.it/?lang=en 
-
-A company specialized in the design and management of Data Centers, with particular attention to the problems of security and service continuity, Cloud Europe was born to meet the needs of the new industrial revolution. The company, based in Rome, builds, hosts and manages modular infrastructure for customer data centers in the private and public sectors. Cloud Europe's goal is to provide a cutting-edge service, characterized by the highest standards of security and quality and is aimed at organizations operating in the financial and insurance world and in general to all those organizations that have business continuity management as a strategic policy.
-
-
-
-We have encrypted your servers along with more of 70TB of data.
-In addition,we have stolen over 541.46 GB of your sensitive data, obtained access to another company`s from  your sensitive transformations .
-We maintain persistence in your network, and in clients , partner`s network
-
-
-
-Giulio ,  Alessio , for us TrendMicro is like a cleaner for wipe the floor.
-
-trendmicro.png 48.95 KB
-
-
-
-vcenter.png 145.46 KB
-
-
-182.png 2.94 MB
-
-idedit.png 1.68 MB
-
-
-attestato.png 154.14 KB
-
-
-
-
-
-
-P.S:  we didn't finish all jobs with you :D   (ITnet - UNIDATA and more)  
-
-If you want to voluntarily start cooperation - we are waiting for you in chat. Otherwise all data will be published or sel.","['Databases', 'Customer and Client Data', 'PII', 'Legal Documents']",100,"[""Keyword match: 'customer' (Category: Customer and Client Data)"", ""Keyword match: 'nda' (Category: Legal Documents)"", ""Keyword match: 'rds' (Category: Databases)""]","[""Pattern match: '(\\+?\\d{1,4}[-.\\s]?(\\d{1,4}[-.\\s]?)?(\\d{1,4}[-.\\s]?)?\\d{4})' (Category: PII)""]",['No phrase matches']
-avant it as,www.mangimifusco.it,"OSLO, OSLO",Norge,Computer and Network Security,Privately Held,PUBLISHED,2024-06-26 08:13:08,490GB,"fusco.png 22.75 KB
-
-FUSCO SRL ·
-strada provinciale 333 0 loc.ferranzano snc bellona, caserta, 81041 italy
-
-Animal Food Manufacturing · Building Material and Supplies Dealers · Farm Product Raw Material Merchant Wholesalers · Miscellaneous Nondurable Goods
-
-
-Private and personal confidential data, clients documents, budget, payroll, accounting, contracts, taxes, IDs, finance information and etc.
-
-
-Mike (mc-soft.it) we give you 3 days to come on negociations
-http://ransombgegc4e2vuq45noxekkmauikzt7qu6ab2rqsthdyxdpdufbqid.onion/files/33d0cbc0-3f72-4c0e-801d-ae3c50c6afef/small.zip","['Customer and Client Data', 'PII', 'Legal Documents', 'Employee and HR Data']",100,"[""Keyword match: 'client' (Category: Customer and Client Data)"", ""Keyword match: 'payroll' (Category: Employee and HR Data)"", ""Keyword match: 'contract' (Category: Legal Documents)""]","[""Pattern match: '(\\+?\\d{1,4}[-.\\s]?(\\d{1,4}[-.\\s]?)?(\\d{1,4}[-.\\s]?)?\\d{4})' (Category: PII)""]",['No phrase matches']
-multi-wing,multi-wing.com,Vedbæk,Danmark,Manufacturing,Privately Held,PUBLISHED,2024-06-13 07:52:55,900GB,"Multi-Wing Group is the leading manufacturer of customized axial fans and impellers for engine cooling, HVAC&R, and industrial applications. By optimizing the aerodynamics and shaping better airflow, noise levels can be decreased and energy used for ventilation and cooling can be reduced, helping the world transition to a more sustainable future.
-
-==leaked information==
-banking information, confidential documents, insurance documents, passwords
-
-==sample==
-https://file.io/MlpDcBG1edbT","['Databases', 'Customer and Client Data']",40,"[""Keyword match: 'password' (Category: Customer and Client Data)"", ""Keyword match: 'rds' (Category: Databases)""]",['No pattern matches'],['No phrase matches']
-invisio,www.invisio.com,Hvidovre,Danmark,Defense & Space,Public Company,PUBLISHED,2024-06-19 18:56:16,400 GB,"OIP.jfif 8.84 KB
-
-5f0fecb5-abdb-4644-b5f1-07a9ac38dd9c.jfif 13.61 KB
-
-Racal Acoustics - a subsidiary of INVISIO (https://invisio.com/), supplier of military equipment to NATO countries. 
-
-The following companies will be affected by the data leak:
-Sanmina; Gentex; Triman; Crew Systems Corp; Galvion; Leonardo DRS; L3 Harris, as well as Thales, Esterline and TransDigm.
-
-The file tree:
-
-http://ransombgegc4e2vuq45noxekkmauikzt7qu6ab2rqsthdyxdpdufbqid.onion/files/b82eca5e-f1fe-48ed-b59c-d05236ad6d59/RACAL%20Tree.txt
-
-All hundreds of gigabytes of data will be available for download in this post in 48 hours.
-
-rakper2.png 118.5 KB
-RACALper1.png 92.54 KB
-1.png 286.72 KB
-2.png 135.41 KB
-3.png 174.2 KB
-4.png 146.27 KB
-5.png 14.37 KB
-6.png 47.43 KB
-7.png 36.09 KB
-8.png 75.32 KB
-9.png 76.48 KB
-10.png 76.19 KB
-11.png 40.28 KB
-12.png 53.84 KB
-13.png 105.13 KB
-14.png 55.56 KB
-15.png 67.98 KB
-16.png 485.23 KB
-17.png 98.36 KB
-18.png 52.33 KB
-19.png 38.21 KB
-20.png 102.7 KB
-21.png 84.86 KB
-22.png 66.63 KB
-23.png 56.23 KB
-24.png 99.81 KB
-25.png 88.54 KB
-26.png 110.76 KB
-
-
-27.png 48.95 KB
-28.png 71.16 KB
-29.png 139.55 KB",['PII'],50,['No keyword matches'],"[""Pattern match: '(\\+?\\d{1,4}[-.\\s]?(\\d{1,4}[-.\\s]?)?(\\d{1,4}[-.\\s]?)?\\d{4})' (Category: PII)""]",['No phrase matches']
-parlorenzo sl,parlorenzo.com,MADRID,España,Accounting,,PUBLISHED,2024-06-16 14:46:27,37GB,"some datas /data archive 2010-2024
-Your confidential data has been stolen
-I recommend that you contact us using the details provided to negotiate full data erasure; otherwise, everything will be leaked.
-
-The data that have been collected includes so much information from your customers whome are mostly business, can be used in vary things,","['Customer and Client Data', 'PII']",70,"[""Keyword match: 'customer' (Category: Customer and Client Data)""]","[""Pattern match: '(\\+?\\d{1,4}[-.\\s]?(\\d{1,4}[-.\\s]?)?(\\d{1,4}[-.\\s]?)?\\d{4})' (Category: PII)""]",['No phrase matches']
-avant it as,www.gbricambi.it [UPDATE],"OSLO, OSLO",Norge,Computer and Network Security,Privately Held,PUBLISHED,2024-06-20 17:28:22,400 GB,"c0dcd3e5-8268-48ef-900c-ae557e08b775.jfif 11.87 KB
-
-Well, having addressed the law enforcement agencies you have made your choice and it is not in favor of your reputation and confidentiality of data in the company. 
-As a logical result, we are starting to disclose your data to the public.
-Screenshot_1.png 359.07 KB
-Screenshot_2.png 1.05 MB
-Screenshot_3.png 271.61 KB
-Screenshot_4.png 238.73 KB
-Screenshot_5.png 351.22 KB
-Screenshot_1.png 172.57 KB
-Screenshot_2.png 371.59 KB
-Screenshot_4.png 222.69 KB
-Screenshot_5.png 558.96 KB
-Screenshot_6.png 234.13 KB
-Screenshot_8.png 221.66 KB
-Screenshot_9.png 459.59 KB",['PII'],70,"[""Keyword match: 'address' (Category: PII)""]","[""Pattern match: '(\\+?\\d{1,4}[-.\\s]?(\\d{1,4}[-.\\s]?)?(\\d{1,4}[-.\\s]?)?\\d{4})' (Category: PII)""]",['No phrase matches']
-avant it as,www.novabitsrl.it,"OSLO, OSLO",Norge,Computer and Network Security,Privately Held,PUBLISHED,2024-06-11 13:10:27,13gb,"Chi siamo e cosa facciamo
-
-Novabit srl nasce nel 2013 dall’acquisizione di Comobit srl, che dal 1982 sino all’entrata in scena della nuova impresa ha operato sul territorio lombardo come storica produttrice di conglomerati bituminosi. Con l’acquisto del ramo d’azienda, Novabit srl ha ereditato il know-how della precedente ditta come società specializzata nella realizzazione di conglomerati bituminosi e misti cementati, eco basi, rigenerati a freddo ad alta duttilità, malte bituminose ed asfalti colorati, che trovano applicazione nel settore edile, delle pavimentazioni, delle infrastrutture e degli scavi fognari.
-
-https://www.zoominfo.com/c/novabit-srl/1242794213","['PII', 'Legal Documents']",70,"[""Keyword match: 'nda' (Category: Legal Documents)""]","[""Pattern match: '(\\+?\\d{1,4}[-.\\s]?(\\d{1,4}[-.\\s]?)?(\\d{1,4}[-.\\s]?)?\\d{4})' (Category: PII)""]",['No phrase matches']
-crezit,www.crezit.com,"4-9-2 Roppongi, Minato, Tokyo",日本,Financial Services,Privately Held,PUBLISHED,2024-05-13 08:05:58,2.5 Gb,"Crezit Group is a company that operates in the Financial Services industry.
-
-We have compromised the entity's internal systems and encrypted a large amount of information.
-We also have exfiltrated all your Outlook .pst backups.
-
-The exfiltrated information is highly sensitive with information related to current and past customers, AEPD will not be happy about it.
-
-We tried contacting with the following administrators:
-
-Oliverio Juan Redondo Corral
-Camino malatones 63 chalet G4
-+34 629100540 +34 637459960
-olivier.redondo@crezit.com
-
-Carlos Moya Alvarez
-carlos.moya@crezit.com
-Calle Ramon de Santillan 15B 1C
-+34 628873977
-
-And both of them ignored our warnings, this is your final warning.
-We recommend you contact us before we release all the documents, here is a small sample:
-
-Sensitive Customer Document
-Customer Scan
-Internal Document","['Customer and Client Data', 'PII']",70,"[""Keyword match: 'customer' (Category: Customer and Client Data)""]","[""Pattern match: '(\\+?\\d{1,4}[-.\\s]?(\\d{1,4}[-.\\s]?)?(\\d{1,4}[-.\\s]?)?\\d{4})' (Category: PII)""]",['No phrase matches']
-christie's,www.christies.com<SOLD>,"London, England",United Kingdom,Retail Luxury Goods and Jewelry,Privately Held,PUBLISHED,2024-05-26 04:30:35,2GB,"Updated:
-    Let us sell the data by auction. We abide by the rules of RansomHub and only sell once. You can find the contact information on the blog.Find something you like in the sample, then contact us.
-
-
-
-
-
-While utilizing access to Christies network we were able to gain access to their customers sensitive personal information including [BirthPlace MRZFull DocumentNumber BirthDate ExpiryDate FirstName LastName IssueDate IssuingAuthority Sex DocumentCategory DocumentType NationalityName] aswell as address, hieght, race and much more sensitive information for at least 500,000 of their private clients from all over the world.
-
-We attempted to come to a reasonable resolution with them but they ceased communication midway through. It is clear that if this information is posted they will incur heavy fines from GDPR as well as ruining their reputation with their clients and don't care about their privacy.
- 
-Below is an image containing a sample:
-8c479938-fff5-4c5b-a89c-053e3b423a1f.PNG 74.87 KB","['Customer and Client Data', 'PII', 'Employee and HR Data']",100,"[""Keyword match: 'address' (Category: PII)"", ""Keyword match: 'customer' (Category: Customer and Client Data)"", ""Keyword match: 'hr' (Category: Employee and HR Data)""]","[""Pattern match: '(\\+?\\d{1,4}[-.\\s]?(\\d{1,4}[-.\\s]?)?(\\d{1,4}[-.\\s]?)?\\d{4})' (Category: PII)""]",['No phrase matches']
-brittany horne,www.brittanyhorne.com,,,,,PUBLISHED,2024-05-20 14:29:18,2GB,"Brittany Horne 
-Your confidential data has been stolen and your network has been crashed. I recommend that you contact us using the details provided to negotiate full decryption and data erasure; otherwise, everything will be leaked. ",['unknown'],0,['No keyword matches'],['No pattern matches'],['No phrase matches']
-houston waste solutions,www.houstonwastesolutions.com,"HOUSTON, TEXAS",United States,Environmental Services,Privately Held,PUBLISHED,2024-05-17 12:10:39,120.7 Gb,"Houston Waste Solutions
-We've been on your network for a long time and have had time to analyze your business.
-We have stolen over 120GB of your sensitive data.
-If you ignore or refuse to deal with us, we will be forced to make all your data public.
-Our blog is being monitored by many high profile media outlets, the case will be highly publicized and will cause devastating damage to your business.
-1045.1 LRB.pdf 1.76 MB
-1001. Aramco.pdf 405.81 KB
-The only way to avoid this is to make a deal with us. Appoint a responsible person to negotiate and get down to business.
-Otherwise, every client will see how you have disregarded their personal information and they will have a detailed plan to win the case against you in court.
-
-we have all of your datas about Your contracts  Engineers and .... we attached some sample here  ","['Customer and Client Data', 'PII', 'Legal Documents']",60,"[""Keyword match: 'personal info' (Category: PII)"", ""Keyword match: 'client' (Category: Customer and Client Data)"", ""Keyword match: 'contract' (Category: Legal Documents)""]",['No pattern matches'],['No phrase matches']
-alabama plate cutting co,www.chuoss.co.jp,"Saginaw, Alabama",United States,Mining,,PUBLISHED,2024-05-15 10:52:07,20GB,"Chuo System Service Co.,Ltd
- Your confidential data has been stolen and your network has been crashed. I recommend that you contact us using the details provided to negotiate full decryption and data erasure; otherwise, everything will be leaked. ",['unknown'],0,['No keyword matches'],['No pattern matches'],['No phrase matches']
-oriux,www.oriux.com,"Houston, Texas",United States,"Appliances, Electrical, and Electronics Manufacturing",Privately Held,PUBLISHED,2024-05-15 09:29:26,300Gb,"ORIUX: Experts in Mobility <www.oriux.com>
-Signal Group already owns 101 Peek Traffic Corporation, Signal Telecom, Rayolite and part of the family of traffic companies that include Semex in Latin America and says the investment will ensure the long term availability of Peek Traffic products to the territory. Globally known Peek Traffic, a subsidiary of Signal Group, launched a rebranding initiative highlighted by the change of the company name to Oriux.
-
-The purpose of the rebranding initiative is to unite Peek Traffic and Signal Group into a single brand and identity. The new name represents human talent, innovation, technology, mobility and global strength and reflects the group’s constant evolution and international growth. Today, the group of companies has presence in more than 500 cities with more than 60,000 traffic intersections deployed and over 25,000 traffic counters and classifiers used worldwide.
-
-SEMEX is a global company, a world leader in traffic control solutions on streets and highways. Founded in 1961 and with more than 50 years of experience, it began its history as a service company that maintained traffic lights in the city of Monterrey, Nuevo León; But soon after, he began manufacturing signs and spare parts for traffic lights. It is currently not only present in several cities in Mexico but also in North America, Latin America and Eastern Europe.
-
-Our main products:
-
-    * Traffic Signals Semex traffic lights with the highest quality at a fair price with great durability, reliability and user-friendliness.
-    * Road Signs Wide range of road signs products: low and high vertical signs, reinforced with LED systems, semi variable signs, intelligent LED signs systems and more.
-    * Traffic Controllers Functional, scalable and reliable traffic controllers. We offer spare parts and provide technical support and training.
-    * Constructions protection We provide products to protect the safety of drivers and workers operating on public roads.
-    * Structures We have a wide variety of structures and we develop special structures according to the client's needs.
-    * Horizontal marking (literal) / Road marking Wide range of products manufactured under the strictest quality standards for a long service life that help to safeguard the order and integrity of drivers and pedestrians.
-
-On 14th of May 2024 the Oriux group was attacked with ransomware. Around 300Gb of private documents was downloaded, including: Accounting, HR, Financial reports, Clients, Contracts and much more.
-
-Data sample:
-https://ufile.io/8obpkva2","['Customer and Client Data', 'Legal Documents', 'PII', 'Employee and HR Data', 'Databases', 'Utility and Infrastructure Data']",100,"[""Keyword match: 'name' (Category: PII)"", ""Keyword match: 'client' (Category: Customer and Client Data)"", ""Keyword match: 'hr' (Category: Employee and HR Data)"", ""Keyword match: 'contract' (Category: Legal Documents)"", ""Keyword match: 'rds' (Category: Databases)"", ""Keyword match: 'telecom' (Category: Utility and Infrastructure Data)""]",['No pattern matches'],['No phrase matches']
-eucatex,www.eucatex.com.br,"São Paulo, Sp",Brasil,Wholesale Building Materials,Public Company,PUBLISHED,2024-05-14 04:53:20,150 GB,"The management of Eucatex apparently have zero interest in protecting their clients data.
-
-They even initiated negotiations and we provided them proof that we have the data as well.
-
-So below you will find over 150 GB of highly selective data relating to the company clients , contractors , financial documents , NDA agreements , applications source codes ,and much more.
-
-Eucatex said that no data leakage or access to their ERP & CRM databases happened. As you can see in the data below , MANY databases exist that are part of the ERP & CRM systems containing clients, and confidential data.
-
-All data is available for sale as of now.","['Intellectual Property', 'Customer and Client Data', 'Databases', 'Legal Documents']",80,"[""Keyword match: 'client' (Category: Customer and Client Data)"", ""Keyword match: 'contract' (Category: Legal Documents)"", ""Keyword match: 'source code' (Category: Intellectual Property)"", ""Keyword match: 'database' (Category: Databases)""]",['No pattern matches'],['No phrase matches']
-okuant,OKUANT - okuant.com,"Madrid, Community of Madrid",España,Real Estate,Self-Owned,PUBLISHED,2024-05-13 08:00:32,5 Gb,"Okuant specializes in the acquisition and comprehensive management of real estate portfolios from financial institutions and developers. Our goal is to generate profitability for our clients by taking advantage of investment opportunities in the Spanish real estate market. To achieve this, in OKUANT we work in all phases of the process, managing the investments of our clients and guaranteeing the security and success of the operations.
-
-Since May 11, 2024 Okuant's systems were compromised by us, we have downloaded a vast amount of internal information affecting customers and employees, and we have encrypted part of their NAS and backups.
-
-The CEO Alvaro Garcia De Castro Perez-Gaye owns 23 corps, and we have a vast amount of sensitive documents from both the corps and their customers.
-
-image.png 289.67 KB","['Customer and Client Data', 'Employee and HR Data']",40,"[""Keyword match: 'customer' (Category: Customer and Client Data)"", ""Keyword match: 'employee' (Category: Employee and HR Data)""]",['No pattern matches'],['No phrase matches']
-mvz für laboratoriumsmedizin,iseta.fr,,,Musicians,,PUBLISHED,2024-05-08 01:17:57,100GB,"ISETA-ECA Group, an educational institution based in the Annecy region for more than 70 years, offers courses at secondary and higher education levels.
-
-Revenue: $15.7 Million
-
-
-100GB Confidential Documents",['Legal Documents'],20,"[""Keyword match: 'nda' (Category: Legal Documents)""]",['No pattern matches'],['No phrase matches']
-erlebnisland eurostrand gmbh & co kg,www.kamojou.co.za,"Fintel, Lower Saxony",Deutschland,Hospitality,Privately Held,PUBLISHED,2024-05-05 06:01:35,2GB,"Your confidential data has been stolen and your network has been crashed. I recommend that you contact us using the details provided to negotiate full decryption and data erasure; otherwise, everything will be leaked.
-
-Kamo Jou Trading and Projects is a 100% South African black youth and female owned company trading, procurement and supply with world class competencies and capabilities. We trade a broad spectrum of commodities across Logistics, Mining, Construction, Automotive, Energy and Agriculture markets and have strong partnerships with the world’s leading stakeholders and suppliers.
-
-Kamo Jou Trading and Projects was incorporated in 2012 and boasts over two decades of experience with focus on excellence in all that we do. Kamo Jou Trading & Projects serves our client’s needs, our team of experienced professionals tailor solutions to assist customers with their within the North West and Limpopo Mine catchment area with offices in Mokopane, Polokwane and Rustenburg, approaching each relationship with a view to creating long-term and sustained partnerships built on the shared values of trust and consistency.",['Customer and Client Data'],20,"[""Keyword match: 'customer' (Category: Customer and Client Data)""]",['No pattern matches'],['No phrase matches']
-whittaker co,www.thaayakam.co.uk,"New Castle, PA",United States,Facilities Services,Privately Held,PUBLISHED,2024-05-04 10:59:59,10.7GB,"Your confidential data has been stolen and your network has been crashed. I recommend that you contact us using the details provided to negotiate full decryption and data erasure; otherwise, everything will be leaked.
-
-THAAYAKAM LTD is a start-up, founded in 2021 with the sole intention to provide a wide range of high-tech solutions incorporated with emerging technologies. We are close knits of passionate tech working towards modern technologies to solve complex real-world problems. Our crew, which works towards new heights, provides high-quality solutions and services with solid commitment. By joining the lightning-fast journey towards the information age to create new digitalised environments, THAAYAKAM LTD will explore a new era full of innovation.",['Databases'],20,"[""Keyword match: 'rds' (Category: Databases)""]",['No pattern matches'],['No phrase matches']
-polaris,www.polaris.es,"Medina, Minnesota",United States,Manufacturing,Public Company,PUBLISHED,2024-04-26 20:10:24,165Gb,"polaris-SOLUCIONES TECNOLÓGICAS PARA EMPRESAS   -- polaris.es
-At Polaris we offer technological solutions for companies. We are located in the city of Madrid . Our business is made up of young people but with a lot of experience in the custom application development sector. We offer the possibility of creating a new program designed exclusively for you.
-We offer services at a good price, since our objective is that the greatest number of clients possible can benefit from all of them. These services include business software, technical service, web development and cloud.
-
-all the data was stolen. there may be software there that you didn't have time to pay for and buy.",['Customer and Client Data'],20,"[""Keyword match: 'client' (Category: Customer and Client Data)""]",['No pattern matches'],['No phrase matches']
-erlebnisland eurostrand gmbh & co kg,www.jutebag.co.uk,"Fintel, Lower Saxony",Deutschland,Hospitality,Privately Held,PUBLISHED,2024-04-25 10:18:35,20 GB,"We have been on your network for a long time and have had time to analyze your business. 
-We have stolen your confidential data.
-If you ignore or refuse to deal with us, we will be forced to release all of your data to the public and we intend to remove the decryption key. You have three days.",['Employee and HR Data'],20,"[""Keyword match: 'hr' (Category: Employee and HR Data)""]",['No pattern matches'],['No phrase matches']
-precision time systems,www.precisiontimesystems.com,"Shallotte, NC",United States,"Appliances, Electrical, and Electronics Manufacturing",,PUBLISHED,2024-04-25 02:06:52,700 GB,"Precision Time Systems <www.precisiontimesystems.com>
-We have been in your network for a long time and have had time to analyze your business. We have found many interesting documents, the publication of which will destroy your business and reputation.
-We have also stolen more than 700 GB of your confidential data and offer to make a deal that will satisfy both parties.
-If you ignore or refuse the deal, we will be forced to release all your data to the public. 
-Our blog is being followed by many well-known media outlets, the case will be highly publicized and will cause devastating damage to your business. 
-The only way to avoid this is to make a deal with us. Appoint a responsible person to negotiate and let's get down to business.
-Otherwise, every client will see how you have neglected their personal information and will have a detailed plan on how to win a case against you in court. You will lose a lot more.
-1.png 416.27 KB
-2.png 514.28 KB
-3.png 563.31 KB
-4.png 570.45 KB
-5.png 200.83 KB
-6.png 52.9 KB
-7.png 119.09 KB
-9.png 713.71 KB","['Customer and Client Data', 'PII']",40,"[""Keyword match: 'personal info' (Category: PII)"", ""Keyword match: 'client' (Category: Customer and Client Data)""]",['No pattern matches'],['No phrase matches']
-fabricainfo,www.fabricainfo.com,"São Paulo, SP",Brasil,IT Services and IT Consulting,Privately Held,PUBLISHED,2024-04-17 19:19:07,11.6 GiB,"www.fabricainfo.com
-A Brazilian technology company specializing in document digitization
-has as its main clients major brands such as Coca-Cola and sectors of the Brazilian government (State Traffic Department, city halls, sports ministry and courts of justice)
-
-we have 11.6 GiB of customer and internal data
-9ikr2.png 140.76 KB
-k2lsp2.png 46.53 KB
-K2n52m.png 166.39 KB",['Customer and Client Data'],20,"[""Keyword match: 'customer' (Category: Customer and Client Data)""]",['No pattern matches'],['No phrase matches']
-grupo cuevas,www.grupocuevas.es,"San Cibrao das Viñas, Ourense",España,Food and Beverage Services,Self-Owned,PUBLISHED,2024-04-16 08:38:55,26GB,Grupo Cuevas<grupocuevas.es>,['unknown'],0,['No keyword matches'],['No pattern matches'],['No phrase matches']
-erlebnisland eurostrand gmbh & co kg,www.eebpsa.com.co,"Fintel, Lower Saxony",Deutschland,Hospitality,Privately Held,PUBLISHED,2024-04-13 12:41:44,"20,2 GB","Empresa de energía del Bajo Putumayo
-
-we have 20gb of accounting and internal management data
-
-image.png 49.4 KB
-
-doc.png 258.49 KB",['Customer and Client Data'],20,"[""Keyword match: 'account' (Category: Customer and Client Data)""]",['No pattern matches'],['No phrase matches']
-nrs healthcare,www.nrshealthcare.com,"Coalville, Leicestershire",United Kingdom,Medical Equipment Manufacturing,Privately Held,PUBLISHED,2024-04-07 10:00:48,578Gb,"NRS Healthcare is a supplier of mobility equipment and disability aids, and other medical equipment. Provides personal care aids, moving and handling aids, mobility and access aids, home care and daily living aids, sensors and electronic aids, paediatrics,  dementia care, exercise, and assessment, infection prevention, bariatric, bathing, pressure care, and therapeutic resources. Purchase can be done online through their portal (marketplace) and provide home delivery service.
-
-On 30th of March 2024 the NRS Healthcare company was attacked with ransomware. More than 600k private documents was downloaded, including: Accounting, HR, Financial reports, Reception, Contracts and much more. 
-Data size: 578Gb.
-
-Company itself has offices in almost every state of United Kingdom. Every office was targeted and attacked. The data breach proof available via download link.
-
-
-The files tree:http://fpwwt67hm3mkt6hdavkfyqi42oo3vkaggvjj4kxdr2ivsbzyka5yr2qd.onion/NRStree.txt
-
-
-To resolve this data breach and obtain the system decryption key, NRS Healthcare need to contact us as soon as possible.
-
-
-https://thiis.co.uk/nrs-healthcare-working-round-the-clock-to-resume-services-following-cyber-security-incident/
-https://thiis.co.uk/nrs-healthcare-in-recovery-phase-after-replacing-technology-infrastructure-following-cyber-hack/
-https://www.nrshealthcare.com/referralswestsussex/","['Customer and Client Data', 'Legal Documents', 'Employee and HR Data']",60,"[""Keyword match: 'account' (Category: Customer and Client Data)"", ""Keyword match: 'hr' (Category: Employee and HR Data)"", ""Keyword match: 'contract' (Category: Legal Documents)""]",['No pattern matches'],['No phrase matches']
-hci systems,www.hcisystems.net,"Ontario, California",United States,Construction,Privately Held,PUBLISHED,2024-04-06 16:07:46,500Gb,"HCI Systems, Inc. <www.hcisystems.net>
-Ensuring safety and security is our goal at HCI Systems, Inc. We provide an array of solutions for a multitude of facilities that include fire alarm, fire suppression, fire sprinklers, electronic security, access control, video management, audio/visual, surveillance, nurse call, fire pump truck rental and more.
-
-We cater to our clients with care and efficiency that transcends beyond their expectations, which is why we are leading the industry in customer satisfaction. We are pioneering the industry through an innovative and comprehensive approach that is simply unmatched by any of our competitors through the combination of knowledge and experience that you can only find at HCI Systems, Inc. Our offices cover all of Southern California, Central California and Northern California.
-
-The ""ComputerEase"" program database was completely stolen
-more than 1,000,000 different documents
-only pdf files 800k
-The program's capabilities are described below, i.e. all these documents are in this database.
-
-We are waiting for company representatives to get in touch; the company has contact information.
-
-ComputerEase is a software developed specifically for construction companies and contractors. It provides a range of tools and functions for managing finances, projects and other aspects of construction activities. Here are the main features of this program:
-Financial Management:
-Project Management:
-Procurement and inventory management:
-Managing subcontractors and personnel:
-Reporting and analytics:
-As for the documents and files that ComputerEase can generate, this may include:
-Financial statements:
-Invoices and invoices:
-Contracts and agreements:
-Lists of materials and costs:
-Project reports:
-Purchase orders:
-Payment orders: for making payments on bills, taxes, wages and other obligations.
-Reports on taxes and fees:
-Payment schedules for contractors and suppliers:
-Specifications and project documents:
-Contracts:
-Asset registers and inventory:
-Work specifications:
-Conclusions on the acceptance of works:.
-Registers of changes and additional work in project frames, including volumes, deadlines and cost.
-References and certificates of conformity:
-Safety and Industrial safety logs:
-Acceptance certificates of materials and equipment:
-Payment plans and payment schedules:
-This is just a small list of possible documents that can be generated using the ComputerEase program.
-
-Invoice 1789.pdf 27.75 KB
-Invoice 1790.pdf 27.75 KB
-Invoice 1792.pdf 27.95 KB
-Invoice 2084.pdf 27.75 KB
-Invoice 2797.pdf 27.74 KB
-Invoice 2798.pdf 27.76 KB
-Invoice 2799.pdf 27.76 KB
-Invoice 2800.pdf 27.75 KB
-Invoice 2801.pdf 27.76 KB
-Invoice 2802.pdf 27.76 KB
-Invoice 2812.pdf 27.75 KB
-Invoice 3230.pdf 27.75 KB
-Invoice 3231.pdf 27.75 KB
-Invoice 3768.pdf 27.72 KB
-Invoice 4028.pdf 27.71 KB
-Invoice 4058.pdf 27.72 KB
-Invoice 4267.pdf 27.72 KB","['Customer and Client Data', 'Legal Documents', 'PII', 'Employee and HR Data', 'Financial Data', 'Databases']",100,"[""Keyword match: 'contact info' (Category: PII)"", ""Keyword match: 'payment' (Category: Financial Data)"", ""Keyword match: 'customer' (Category: Customer and Client Data)"", ""Keyword match: 'hr' (Category: Employee and HR Data)"", ""Keyword match: 'contract' (Category: Legal Documents)"", ""Keyword match: 'database' (Category: Databases)""]",['No pattern matches'],['No phrase matches']
-better accounting solutions,www.betteraccountingsolutions.com,"New York, New York",United States,Accounting,Privately Held,PUBLISHED,2024-04-06 00:34:16,200 GB,"Better Accounting Solutions <www.betteraccountingsolutions.com>
-You have a week to make a deal with us.
-
-After that time, we will remove the decryption key for your network and publish all of your sensitive data.
-
-1.png 148.96 KB
-2.png 196.37 KB
-3.png 153.58 KB
-4.png 72.84 KB
-5.png 88.82 KB
-6.png 157.32 KB
-7.png 104.07 KB
-8.png 116.5 KB
-9.png 155.9 KB
-10.png 36.9 KB
-11.png 161.63 KB",['Customer and Client Data'],20,"[""Keyword match: 'account' (Category: Customer and Client Data)""]",['No pattern matches'],['No phrase matches']
-avant it as,www.aretusamilano.it,"OSLO, OSLO",Norge,Computer and Network Security,Privately Held,PUBLISHED,2024-04-04 21:46:49,90GB,"A buyer is currently being searched in the database, and publication has been postponed.
-il database viene cercato da un acquirente, la pubblicazione viene posticipata.
-se busca un comprador en la base de datos, la publicación se pospone.
-
-
-
-La Carrozzeria Aretusa srl, fondata nel 1960, ha sede in Milano in Via G.E. Pestalozzi n.10 interno 18/A (zona navigli) ben servita dai mezzi pubblici. La nostra azienda si estende su una superficie di proprietà di circa 1300mq coperti, suddivisi tra la carrozzeria autorizzata Peugeot e l'officina meccanica.
-Siamo convenzionati con le principali imprese Assicuratrici per la liquidazione diretta dei sinistri!
-Tra cui: Generali Italia, Itas, Zurich, GroupAma, Unipol-Sai, Prima.it, Vittoria Assicurazioni, Genertel, Verti e Cattolica.
-
-Servizio di Carrozzeria
-Svolgiamo lavori di carrozzeria qualsiasi sia la vostra auto utilizzando ricambi originali
-
-programma rubato
-WINCAR ci sono decine di migliaia di clienti 80GB di dati nel database :
-(Wincar è un software di gestione di officine e carrozzerie che consente di organizzare i clienti, fare preventivi, creare fatture.
-
-Puoi pianificare gli eventi creando la tua agenda interna.
-Una sezione riguarda la gestione del noleggio e della sostituzione delle auto.
-
-Con l'app per smartphone e tablet è possibile tenere traccia di tutte le informazioni tecniche dei produttori con le misurazioni dei veicoli.
-Puoi scattare foto dal tuo telefono e caricarle direttamente nel sistema di pratica.
-
-Infine, WINCAR gestisce gli account dei clienti e la fatturazione elettronica, con archiviazione legale, esportazione XML e invio a SdI.
-
-Caratteristiche del software per officine meccaniche e officine di riparazione
-Elenco clienti e fornitori
-Storia di automobili e veicoli
-Gestione dell'inventario e dell'inventario delle parti
-Gestione delle assegnazioni
-Gestione di veicoli intercambiabili
-Gestione di preventivi e documenti di accettazione
-Lavori e commissioni con interventi storici
-Gestione di coupon e scadenze
-Integrazione con il sistema di ricerca della targa
-Integrazione con database esterni per pezzi di ricambio e specifiche
-Integrazione con strumenti e strumenti diagnostici
-Fatturazione e contabilità)
-
-il database viene cercato da un acquirente, la pubblicazione viene posticipata.","['Databases', 'Customer and Client Data', 'PII', 'Legal Documents']",80,"[""Keyword match: 'phone' (Category: PII)"", ""Keyword match: 'client' (Category: Customer and Client Data)"", ""Keyword match: 'nda' (Category: Legal Documents)"", ""Keyword match: 'database' (Category: Databases)""]",['No pattern matches'],['No phrase matches']
-pgesco,www.pgesco.com,"Cairo, Egypt",مصر,Engineering Services,Partnership,PUBLISHED,2024-03-22 09:50:30,8 Tb Crypted,"PGESCo provides engineering, procurement, project and site management services to electric power plants.
-
- Access to all files have been obtained. Documents from Finance, HR, customer info, PII, internal and confidential documents. - Also CEO's documents. 
-
-If the company does not contact us in the next three days  (03/24/24) data sample will be posted. 
-
-
-Data sample:fpwwt67hm3mkt6hdavkfyqi42oo3vkaggvjj4kxdr2ivsbzyka5yr2qd.onion/pgescosample.com.rar","['Customer and Client Data', 'Employee and HR Data']",40,"[""Keyword match: 'customer' (Category: Customer and Client Data)"", ""Keyword match: 'hr' (Category: Employee and HR Data)""]",['No pattern matches'],['No phrase matches']
-la pastina,www.lapastina.com,"São Paulo, São Paulo",Brasil,Food and Beverage Services,Privately Held,PUBLISHED,2024-03-20 09:16:29,6GB,"About La Pastina
-
-We think about the transformative power of good food. For more than 70 years we have discovered that a selection of good ingredients when preparing a meal enriches the food and transforms the conventional into celebrations. Make everything good even better.
-
-We have a true passion for Mediterranean wine gastronomy and dedicate ourselves fully to it. For us, the rite of food is a key element of life, it is where we share thoughts and live relationships.
-
-We combine quality, practicality, healthiness and sophisticated ingredients. We are constantly searching for foods and wines of excellence in flavor and origin to bring a true gourmet experience to Brazilians' tables. Research, discover, test and select are the pillars of our curation.
-
-Offer your own brand products in addition to iconic international gastronomy brands. All of this makes La Pastina a unique company, a true curator of extraordinary flavors, an ambassador of Italian and Mediterranean cuisine in Brazil.
-
-We provide a complete experience, bringing to Brazil products from more than 16 countries, more than 250 wines, observed labels produced in the main wine growing regions of the world, such as Argentina, Chile, United States, Spain, France, Italy and Portugal. As for the food line, it is an invitation to an imaginary Mediterranean: from fish from the Adriatic Sea to olive oils from Sicily, you will find a world of colors, flavors and aromas.",['Databases'],20,"[""Keyword match: 'table' (Category: Databases)""]",['No pattern matches'],['No phrase matches']
-computan,www.computan.com,"Thorold, ON",Canada,IT Services and IT Consulting,Privately Held,PUBLISHED,2024-03-11 04:20:24,72GB,"Computan is a company that operates in the SaaS industry. We have successfully infiltrated its network and gained access to all customer information, documents, and payments from all companies hosted inside your network. If they do not pay the requested amount, we will leak all the files and databases containing PII information like names, address and a lot more. We stole a lot of confidential data from it, if you don't contact us within a specified period of time, we'll release all the data.","['Databases', 'Customer and Client Data', 'PII', 'Financial Data']",80,"[""Keyword match: 'address' (Category: PII)"", ""Keyword match: 'payment' (Category: Financial Data)"", ""Keyword match: 'customer' (Category: Customer and Client Data)"", ""Keyword match: 'database' (Category: Databases)""]",['No pattern matches'],['No phrase matches']
-scadea software solutions,www.scadea.com,"Princeton, New Jersey",United States,IT Services and IT Consulting,Privately Held,PUBLISHED,2024-03-10 11:42:33,30GB,"Scadea Solutions <scadea.com>
-We have infiltrated Scadea Solutions network and exfiltrated data such as:
-
-Private Email Logs
-MYSQL Database (Including accounts, PII, etc.)
-Personal data
-Private records
- 
-If Scadea Solutions does not contact us within the designated time period, this data will be published.","['Databases', 'Customer and Client Data', 'PII']",60,"[""Keyword match: 'email' (Category: PII)"", ""Keyword match: 'account' (Category: Customer and Client Data)"", ""Keyword match: 'database' (Category: Databases)""]",['No pattern matches'],['No phrase matches']
-tv equinocio comunicações ltda,www.go4kora.tv,"MACAPÁ, AMAPÁ",Brasil,Newspaper Publishing,Privately Held,PUBLISHED,2024-03-09 13:57:00,12GB,"go4kora is a company that operates in the sports industry.
-We have successfully infiltrated its network and gained access to all their customers information and documents.
-If they do not pay the requested amount, we will leak all the files and databases.
-We stole a lot of confidential data from it, if you don't contact us within a specified period of time, we'll release all the data.","['Databases', 'Customer and Client Data']",40,"[""Keyword match: 'customer' (Category: Customer and Client Data)"", ""Keyword match: 'database' (Category: Databases)""]",['No pattern matches'],['No phrase matches']
-rekamy,www.rekamy.com,"Cyberjaya, Selangor",Malaysia,Design Services,Partnership,PUBLISHED,2024-03-08 19:15:11,42GB,"Rekamy is a company that operates in the SaaS industry. We have successfully infiltrated its network and gained access to all customer information, documents, and payments from all companies hosted inside your network. This includes: 
-AgroBazaar
-Panorama LangKawi
-Eskayvie
-ArtClean
-Aito
-Opisku
-And a lot more... If they do not pay the requested amount, we will leak all the files and databases containing PII information like names, address and a lot more. We stole a lot of confidential data from it, if you don't contact us within a specified period of time, we'll release all the data.","['Databases', 'Customer and Client Data', 'PII', 'Financial Data']",80,"[""Keyword match: 'address' (Category: PII)"", ""Keyword match: 'payment' (Category: Financial Data)"", ""Keyword match: 'customer' (Category: Customer and Client Data)"", ""Keyword match: 'database' (Category: Databases)""]",['No pattern matches'],['No phrase matches']
-merchantid,www.merchant.id,,,Software Development,Partnership,PUBLISHED,2024-03-06 14:57:31,50GB,"Merchant ID
-Turn your potential customers into loyal ones
-customers in minutes!
-Get various solutions for
-your online business needs
-
- We stole a lot of confidential data from it, and if you don't contact us within a specified period of time, we'll release 30% of it, and 50% again in a few months. ",['Customer and Client Data'],20,"[""Keyword match: 'customer' (Category: Customer and Client Data)""]",['No pattern matches'],['No phrase matches']
-shooting house,www.shootinghouse.com.br,"Guarapuava, Paraná",Brasil,Program Development,Privately Held,PUBLISHED,2024-02-28 22:23:48,60GB,"We are an ERP system with exclusive features and functionalities for shooting stores, clubs and entities. We have been dedicating ourselves to meeting the needs and demands of our customers for more than 7 years and today, we are the most used system in Brazil in the shooting segment, serving more than 800 entities across the country. Our main difference is our modules developed especially for stores and clubs, namely: Storekeeper, Dispatcher, Clubs, Competitions and Financial Modules. We also offer several complements and applications integrated with the system that help manage competitions and affiliates, such as Shooting Score, Shooting Atirador and Personalized Website.
-
-We stole a lot of confidential data from it, and if you don't contact us within a specified period of time, we'll release 30% of it, and 50% again in a few months.
-
-image.png 479.26 KB
-image2.png 116.39 KB","['Customer and Client Data', 'PII']",40,"[""Keyword match: 'name' (Category: PII)"", ""Keyword match: 'customer' (Category: Customer and Client Data)""]",['No pattern matches'],['No phrase matches']
-ykp,www.ykp.com.br,"São Paulo, SP",Brasil,Information Technology & Services,Privately Held,PUBLISHED,2024-02-07 22:27:29,150GB,"In these 32 years, YKP has made a name for itself in the market for consultancy, implementation and support of company management.
-Website: www.ykp.com.br
-
-we have 150GB of confidential company data.
-
-enjoy:https://gofile.io/d/rXKaXS
-
-including finances, FGTS,reports, accounting, customers, employees,Marriage certificates, real estate loans, employee payroll, contracts, bank statements and more...","['Customer and Client Data', 'PII', 'Legal Documents', 'Employee and HR Data']",80,"[""Keyword match: 'name' (Category: PII)"", ""Keyword match: 'customer' (Category: Customer and Client Data)"", ""Keyword match: 'employee' (Category: Employee and HR Data)"", ""Keyword match: 'contract' (Category: Legal Documents)""]",['No pattern matches'],['No phrase matches']
+• Gestão Empresarial
+• Big Data / Analytics
+• Gestão Fiscal e Tributária
+• Soluções Web e Mobile 
+• Cloud Computing",201-500 employees,2024-02-07 22:27:29,123387,150GB,"['Customer and Client Data', 'PII', 'Legal Documents', 'Employee and HR Data']",RansomHub
